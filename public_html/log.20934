@@ -1,0 +1,442 @@
+08:37:43.171271 --- SIGSTOP (Stopped (signal)) @ 0 (0) ---
+08:37:43.171439 --- SIGSTOP (Stopped (signal)) @ 0 (0) ---
+08:37:43.171653 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-blog-header.php", {st_mode=S_IFREG|0700, st_size=271, ...}) = 0
+08:37:43.171879 open("/home/i/infoscon/infoscon.ru/public_html/wp-blog-header.php", O_RDONLY) = 3
+08:37:43.172040 fstat(3, {st_mode=S_IFREG|0700, st_size=271, ...}) = 0
+08:37:43.172074 fstat(3, {st_mode=S_IFREG|0700, st_size=271, ...}) = 0
+08:37:43.172103 fstat(3, {st_mode=S_IFREG|0700, st_size=271, ...}) = 0
+08:37:43.172132 mmap(NULL, 271, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.172175 stat("/home/i/infoscon/infoscon.ru/public_html/wp-blog-header.php", {st_mode=S_IFREG|0700, st_size=271, ...}) = 0
+08:37:43.172223 munmap(0x2ab7e00d0000, 271) = 0
+08:37:43.172249 close(3)                = 0
+08:37:43.172302 open("/home/i/infoscon/infoscon.ru/public_html/wp-load.php", O_RDONLY) = 3
+08:37:43.172333 fstat(3, {st_mode=S_IFREG|0700, st_size=3123, ...}) = 0
+08:37:43.172369 mmap(NULL, 3123, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.172401 munmap(0x2ab7e00d0000, 3123) = 0
+08:37:43.172423 close(3)                = 0
+08:37:43.172446 stat("/home/i/infoscon/infoscon.ru/public_html/wp-load.php", {st_mode=S_IFREG|0700, st_size=3123, ...}) = 0
+08:37:43.172543 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-config.php", {st_mode=S_IFREG|0700, st_size=4513, ...}) = 0
+08:37:43.172603 stat("/home/i/infoscon/infoscon.ru/public_html/wp-config.php", {st_mode=S_IFREG|0700, st_size=4513, ...}) = 0
+08:37:43.172645 open("/home/i/infoscon/infoscon.ru/public_html/wp-config.php", O_RDONLY) = 3
+08:37:43.172673 fstat(3, {st_mode=S_IFREG|0700, st_size=4513, ...}) = 0
+08:37:43.172702 mmap(NULL, 4513, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.172729 munmap(0x2ab7e00d0000, 4513) = 0
+08:37:43.172752 close(3)                = 0
+08:37:43.172774 stat("/home/i/infoscon/infoscon.ru/public_html/wp-config.php", {st_mode=S_IFREG|0700, st_size=4513, ...}) = 0
+08:37:43.172916 open("/home/i/infoscon/infoscon.ru/public_html/wp-settings.php", O_RDONLY) = 3
+08:37:43.172946 fstat(3, {st_mode=S_IFREG|0700, st_size=11048, ...}) = 0
+08:37:43.172975 mmap(NULL, 11048, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.173006 munmap(0x2ab7e00d0000, 11048) = 0
+08:37:43.173029 close(3)                = 0
+08:37:43.173051 stat("/home/i/infoscon/infoscon.ru/public_html/wp-settings.php", {st_mode=S_IFREG|0700, st_size=11048, ...}) = 0
+08:37:43.173097 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/load.php", {st_mode=S_IFREG|0700, st_size=24428, ...}) = 0
+08:37:43.173134 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.173173 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/load.php", O_RDONLY) = 3
+08:37:43.173202 fstat(3, {st_mode=S_IFREG|0700, st_size=24428, ...}) = 0
+08:37:43.173231 fstat(3, {st_mode=S_IFREG|0700, st_size=24428, ...}) = 0
+08:37:43.173260 fstat(3, {st_mode=S_IFREG|0700, st_size=24428, ...}) = 0
+08:37:43.173289 mmap(NULL, 24428, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:37:43.173335 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/load.php", {st_mode=S_IFREG|0700, st_size=24428, ...}) = 0
+08:37:43.173370 munmap(0x2ab7e0243000, 24428) = 0
+08:37:43.173394 close(3)                = 0
+08:37:43.173525 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-constants.php", {st_mode=S_IFREG|0700, st_size=8052, ...}) = 0
+08:37:43.173571 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-constants.php", O_RDONLY) = 3
+08:37:43.173601 fstat(3, {st_mode=S_IFREG|0700, st_size=8052, ...}) = 0
+08:37:43.173630 fstat(3, {st_mode=S_IFREG|0700, st_size=8052, ...}) = 0
+08:37:43.173658 fstat(3, {st_mode=S_IFREG|0700, st_size=8052, ...}) = 0
+08:37:43.173687 mmap(NULL, 8052, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.173721 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-constants.php", {st_mode=S_IFREG|0700, st_size=8052, ...}) = 0
+08:37:43.173756 munmap(0x2ab7e00d0000, 8052) = 0
+08:37:43.173789 close(3)                = 0
+08:37:43.173845 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/version.php", {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:37:43.173889 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/version.php", O_RDONLY) = 3
+08:37:43.174155 fstat(3, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:37:43.174190 fstat(3, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:37:43.174237 fstat(3, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:37:43.174272 mmap(NULL, 619, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.174318 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/version.php", {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:37:43.174362 munmap(0x2ab7e00d0000, 619) = 0
+08:37:43.174389 close(3)                = 0
+08:37:43.174577 access("/home/i/infoscon/infoscon.ru/public_html/.maintenance", F_OK) = -1 ENOENT (No such file or directory)
+08:37:43.174624 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/advanced-cache.php", {st_mode=S_IFREG|0600, st_size=1100, ...}) = 0
+08:37:43.174797 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.174837 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/advanced-cache.php", O_RDONLY) = 3
+08:37:43.174866 fstat(3, {st_mode=S_IFREG|0600, st_size=1100, ...}) = 0
+08:37:43.174895 fstat(3, {st_mode=S_IFREG|0600, st_size=1100, ...}) = 0
+08:37:43.174924 fstat(3, {st_mode=S_IFREG|0600, st_size=1100, ...}) = 0
+08:37:43.174953 mmap(NULL, 1100, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.174991 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/advanced-cache.php", {st_mode=S_IFREG|0600, st_size=1100, ...}) = 0
+08:37:43.175026 munmap(0x2ab7e00d0000, 1100) = 0
+08:37:43.175050 close(3)                = 0
+08:37:43.175090 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+08:37:43.175144 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/define.php", {st_mode=S_IFREG|0744, st_size=40224, ...}) = 0
+08:37:43.175182 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+08:37:43.175217 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+08:37:43.175252 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.175293 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/define.php", {st_mode=S_IFREG|0744, st_size=40224, ...}) = 0
+08:37:43.175334 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/define.php", O_RDONLY) = 3
+08:37:43.175364 fstat(3, {st_mode=S_IFREG|0744, st_size=40224, ...}) = 0
+08:37:43.175393 mmap(NULL, 40224, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:37:43.175422 munmap(0x2ab7e0243000, 40224) = 0
+08:37:43.175446 close(3)                = 0
+08:37:43.175468 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/define.php", {st_mode=S_IFREG|0744, st_size=40224, ...}) = 0
+08:37:43.175951 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/functions/compat.php", O_RDONLY) = 3
+08:37:43.175991 fstat(3, {st_mode=S_IFREG|0744, st_size=2874, ...}) = 0
+08:37:43.176023 mmap(NULL, 2874, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.176054 munmap(0x2ab7e00d0000, 2874) = 0
+08:37:43.176081 close(3)                = 0
+08:37:43.176107 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/functions/compat.php", {st_mode=S_IFREG|0744, st_size=2874, ...}) = 0
+08:37:43.176211 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/functions/plugin.php", O_RDONLY) = 3
+08:37:43.176266 fstat(3, {st_mode=S_IFREG|0744, st_size=17608, ...}) = 0
+08:37:43.176302 mmap(NULL, 17608, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.176341 munmap(0x2ab7e00d0000, 17608) = 0
+08:37:43.176365 close(3)                = 0
+08:37:43.176387 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/functions/plugin.php", {st_mode=S_IFREG|0744, st_size=17608, ...}) = 0
+08:37:43.176468 brk(0x55920b72d000)     = 0x55920b72d000
+08:37:43.176581 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Redirect.php", O_RDONLY) = 3
+08:37:43.176615 fstat(3, {st_mode=S_IFREG|0744, st_size=1523, ...}) = 0
+08:37:43.176645 mmap(NULL, 1523, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.176671 munmap(0x2ab7e00d0000, 1523) = 0
+08:37:43.176694 close(3)                = 0
+08:37:43.176715 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Redirect.php", {st_mode=S_IFREG|0744, st_size=1523, ...}) = 0
+08:37:43.176777 brk(0x55920b76f000)     = 0x55920b76f000
+08:37:43.176822 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Config.php", O_RDONLY) = 3
+08:37:43.176853 fstat(3, {st_mode=S_IFREG|0744, st_size=8850, ...}) = 0
+08:37:43.176882 mmap(NULL, 8850, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.176912 munmap(0x2ab7e00d0000, 8850) = 0
+08:37:43.176936 close(3)                = 0
+08:37:43.176961 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Config.php", {st_mode=S_IFREG|0744, st_size=8850, ...}) = 0
+08:37:43.177055 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/ConfigBase.php", O_RDONLY) = 3
+08:37:43.177088 fstat(3, {st_mode=S_IFREG|0744, st_size=1966, ...}) = 0
+08:37:43.177117 mmap(NULL, 1966, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.177143 munmap(0x2ab7e00d0000, 1966) = 0
+08:37:43.177165 close(3)                = 0
+08:37:43.177187 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/ConfigBase.php", {st_mode=S_IFREG|0744, st_size=1966, ...}) = 0
+08:37:43.177273 access("/home/i/infoscon/infoscon.ru/public_html/wpmu-settings.php", F_OK) = -1 ENOENT (No such file or directory)
+08:37:43.177340 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/config/master.php", F_OK) = 0
+08:37:43.177387 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/config/master.php", R_OK) = 0
+08:37:43.177428 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/config/master.php", {st_mode=S_IFREG|0644, st_size=19435, ...}) = 0
+08:37:43.177466 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/config", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.177502 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.177538 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/config/master.php", O_RDONLY) = 3
+08:37:43.177577 fstat(3, {st_mode=S_IFREG|0644, st_size=19435, ...}) = 0
+08:37:43.177606 lseek(3, 0, SEEK_CUR)   = 0
+08:37:43.177629 fstat(3, {st_mode=S_IFREG|0644, st_size=19435, ...}) = 0
+08:37:43.177663 read(3, "<?php exit;?>a:370:{s:7:\"version\";s:7:\"0.9.4.1\";s:24:\"cluster.messagebus.debug\";b:0;s:26:\"cluster.messagebus.enabled\";b:0;s:29:\"cluster.messagebus.sns.region\";s:0:\"\";s:30:\"cluster.messagebus.sns.api_key\";s:0:\"\";s:33:\"cluster.messagebus.sns.api_secret\";s:0:\"\";s:32:\"cluster.messagebus.sns.topic_arn\";s:0:\"\";s:13:\"dbcache.debug\";b:0;s:15:\"dbcache.enabled\";b:1;s:14:\"dbcache.engine\";s:4:\"file\";s:15:\"dbcache.file.gc\";i:3600;s:20:\"dbcache.file.locking\";b:0;s:16:\"dbcache.lifetime\";i:180;s:28:\"dbcache.memcached.persistant\";b:1;s:25:\"dbcache.memcached.servers\";a:1:{i:0;s:15:\"127.0.0.1:11211\";}s:21:\"dbcache.reject.cookie\";a:0:{}s:21:\"dbcache.reject.logged\";b:1;s:18:\"dbcache.reject.sql\";a:3:{i:0;s:5:\"gdsr_\";i:1;s:6:\"wp_rg_\";i:2;s:12:\"_wp_session_\";}s:18:\"dbcache.reject.uri\";a:0:{}s:20:\"dbcache.reject.words\";a:12:{i:0;s:12:\"^\\s*insert\\b\";i:1;s:12:\"^\\s*delete\\b\";i:2;s:12:\"^\\s*update\\b\";i:3;s:13:\"^\\s*replace\\b\";i:4;s:12:\"^\\s*create\\b\";i:5;s:11:\"^\\s*alter\\b\";i:6;s:10:\"^\\s*show\\b\";i:7;s:9:\"^\\s*set\\b\";i:8;s:22:\"\\bautoload\\s+=\\s+'yes'\";i:9;s:23:\"\\bsql_calc_found_rows\\b\";i:10;s:16:\"\\bfound_rows\\(\\)\";i:11;s:21:\"\\bw3tc_request_data\\b\";}s:19:\"objectcache.enabled\";b:1;s:17:\"objectcache.debug\";b:0;s:18:\"objectcache.engine\";s:4:\"file\";s:19:\"objectcache.file.gc\";i:3600;s:24:\"objectcache.file.locking\";b:0;s:29:\"objectcache.memcached.servers\";a:1:{i:0;s:15:\"127.0.0.1:11211\";}s:32:\"objectcache.memcached.persistant\";b:1;s:25:\"objectcache.groups.global\";a:11:{i:0;s:5:\"users\";i:1;s:10:\"userlogins\";i:2;s:8:\"usermeta\";i:3;s:9:\"user_meta\";i:4;s:14:\"site-transient\";i:5;s:12:\"site-options\";i:6;s:11:\"site-lookup\";i:7;s:11:\"blog-lookup\";i:8;s:12:\"blog-details\";i:9;s:3:\"rss\";i:10;s:12:\"global-posts\";}s:32:\"objectcache.groups.nonpersistent\";a:3:{i:0;s:7:\"comment\";i:1;s:6:\"counts\";i:2;s:7:\"plugins\";}s:20:\"objectcache.lifetime\";i:180;s:21:\"objectcache.purge.all\";b:0;s:21:\"fragmentcache.enabled\";b:0;s:19:\"fragmentcache.debug\";b:0;s:20:\"fragmentcache.engine\";s:4:\"file\";s:21:\"fragmentcache.file.gc\";i:3600;s:26:\"fragmentcache.file.locking\";b:0;s:31:\"fragmentcache.memcached.servers\";a:1:{i:0;s:15:\"127.0.0.1:11211\";}s:34:\"fragmentcache.memcached.persistant\";b:1;s:22:\"fragmentcache.lifetime\";i:180;s:20:\"fragmentcache.groups\";a:0:{}s:15:\"pgcache.enabled\";b:1;s:26:\"pgcache.comment_cookie_ttl\";i:1800;s:13:\"pgcache.debug\";b:0;s:14:\"pgcache.engine\";s:12:\"file_generic\";s:15:\"pgcache.file.gc\";i:3600;s:16:\"pgcache.file.nfs\";b:0;s:20:\"pgcache.file.locking\";b:0;s:16:\"pgcache.lifetime\";i:3600;s:25:\"pgcache.memcached.servers\";a:1:{i:0;s:15:\"127.0.0.1:11211\";}s:28:\"pgcache.memcached.persistant\";b:1;s:20:\"pgcache.check.domain\";b:0;s:19:\"pgcache.cache.query\";b:0;s:18:\"pgcache.cache.home\";b:0;s:18:\"pgcache.cache.feed\";b:0;s:30:\"pgcache.cache.nginx_handle_xml\";b:0;s:17:\"pgcache.cache.ssl\";b:0;s:17:\"pgcache.cache.404\";b:0;s:19:\"pgcache.cache.flush\";b:0;s:21:\"pgcache.cache.headers\";a:4:{i:0;s:13:\"Last-Modified\";i:1;s:12:\"Content-Type\";i:2;s:10:\"X-Pingback\";i:3;s:3:\"P3P\";}s:21:\"pgcache.compatibility\";b:0;s:22:\"pgcach"..., 8192) = 8192
+08:37:43.177869 read(3, ":\"favicon.ico\";i:1;s:26:\"{wp_content_dir}/gallery/*\";i:2;s:34:\"{wp_content_dir}/uploads/avatars/*\";i:3;s:47:\"{plugins_dir}/wordpress-seo/css/xml-sitemap.xsl\";i:4;s:28:\"{plugins_dir}/wp-minify/min*\";i:5;s:18:\"{plugins_dir}/*.js\";i:6;s:19:\"{plugins_dir}/*.css\";i:7;s:19:\"{plugins_dir}/*.gif\";i:8;s:19:\"{plugins_dir}/*.jpg\";i:9;s:19:\"{plugins_dir}/*.png\";}s:19:\"cdn.import.external\";b:0;s:16:\"cdn.import.files\";s:0:\"\";s:18:\"cdn.queue.interval\";i:900;s:15:\"cdn.queue.limit\";i:25;s:17:\"cdn.force.rewrite\";b:0;s:22:\"cdn.autoupload.enabled\";b:0;s:23:\"cdn.autoupload.interval\";i:3600;s:20:\"cdn.canonical_header\";b:0;s:12:\"cdn.ftp.host\";s:0:\"\";s:12:\"cdn.ftp.user\";s:0:\"\";s:12:\"cdn.ftp.pass\";s:0:\"\";s:12:\"cdn.ftp.path\";s:0:\"\";s:12:\"cdn.ftp.pasv\";b:0;s:14:\"cdn.ftp.domain\";a:0:{}s:11:\"cdn.ftp.ssl\";s:4:\"auto\";s:10:\"cdn.s3.key\";s:0:\"\";s:13:\"cdn.s3.secret\";s:0:\"\";s:13:\"cdn.s3.bucket\";s:0:\"\";s:12:\"cdn.s3.cname\";a:0:{}s:10:\"cdn.s3.ssl\";s:4:\"auto\";s:10:\"cdn.cf.key\";s:0:\"\";s:13:\"cdn.cf.secret\";s:0:\"\";s:13:\"cdn.cf.bucket\";s:0:\"\";s:9:\"cdn.cf.id\";s:0:\"\";s:12:\"cdn.cf.cname\";a:0:{}s:10:\"cdn.cf.ssl\";s:4:\"auto\";s:11:\"cdn.cf2.key\";s:0:\"\";s:14:\"cdn.cf2.secret\";s:0:\"\";s:10:\"cdn.cf2.id\";s:0:\"\";s:13:\"cdn.cf2.cname\";a:0:{}s:11:\"cdn.cf2.ssl\";s:0:\"\";s:13:\"cdn.rscf.user\";s:0:\"\";s:12:\"cdn.rscf.key\";s:0:\"\";s:17:\"cdn.rscf.location\";s:2:\"us\";s:18:\"cdn.rscf.container\";s:0:\"\";s:14:\"cdn.rscf.cname\";a:0:{}s:12:\"cdn.rscf.ssl\";s:4:\"auto\";s:14:\"cdn.azure.user\";s:0:\"\";s:13:\"cdn.azure.key\";s:0:\"\";s:19:\"cdn.azure.container\";s:0:\"\";s:15:\"cdn.azure.cname\";a:0:{}s:13:\"cdn.azure.ssl\";s:4:\"auto\";s:17:\"cdn.mirror.domain\";a:0:{}s:14:\"cdn.mirror.ssl\";s:4:\"auto\";s:16:\"cdn.netdna.alias\";s:0:\"\";s:22:\"cdn.netdna.consumerkey\";s:0:\"\";s:25:\"cdn.netdna.consumersecret\";s:0:\"\";s:28:\"cdn.netdna.authorization_key\";s:0:\"\";s:17:\"cdn.netdna.domain\";a:0:{}s:14:\"cdn.netdna.ssl\";s:4:\"auto\";s:18:\"cdn.netdna.zone_id\";i:0;s:28:\"cdn.maxcdn.authorization_key\";s:0:\"\";s:17:\"cdn.maxcdn.domain\";a:0:{}s:14:\"cdn.maxcdn.ssl\";s:4:\"auto\";s:18:\"cdn.maxcdn.zone_id\";i:0;s:20:\"cdn.cotendo.username\";s:0:\"\";s:20:\"cdn.cotendo.password\";s:0:\"\";s:17:\"cdn.cotendo.zones\";a:0:{}s:18:\"cdn.cotendo.domain\";a:0:{}s:15:\"cdn.cotendo.ssl\";s:4:\"auto\";s:19:\"cdn.akamai.username\";s:0:\"\";s:19:\"cdn.akamai.password\";s:0:\"\";s:29:\"cdn.akamai.email_notification\";a:0:{}s:17:\"cdn.akamai.action\";s:10:\"invalidate\";s:15:\"cdn.akamai.zone\";s:10:\"production\";s:17:\"cdn.akamai.domain\";a:0:{}s:14:\"cdn.akamai.ssl\";s:4:\"auto\";s:20:\"cdn.edgecast.account\";s:0:\"\";s:18:\"cdn.edgecast.token\";s:0:\"\";s:19:\"cdn.edgecast.domain\";a:0:{}s:16:\"cdn.edgecast.ssl\";s:4:\"auto\";s:15:\"cdn.att.account\";s:0:\"\";s:13:\"cdn.att.token\";s:0:\"\";s:14:\"cdn.att.domain\";a:0:{}s:11:\"cdn.att.ssl\";s:4:\"auto\";s:17:\"cdn.reject.admins\";b:0;s:23:\"cdn.reject.logged_roles\";b:0;s:16:\"cdn.reject.roles\";a:0:{}s:13:\"cdn.reject.ua\";a:0:{}s:14:\"cdn.reject.uri\";a:0:{}s:16:\"cdn.reject.files\";a:3:{i:0;s:29:\"{uploads_dir}/wpcf7_captcha/*\";i:1;s:30:\"{uploads_dir}/imagerotator.swf\";i:2;s:62:\"{plugins_dir}/wp-fb-autoconnect/facebook-platf"..., 8192) = 8192
+08:37:43.178058 read(3, "\";i:1;s:10:\"yahoo\\.com\";i:2;s:9:\"bing\\.com\";i:3;s:8:\"ask\\.com\";i:4;s:8:\"msn\\.com\";}}}s:14:\"common.support\";s:0:\"\";s:14:\"common.install\";i:0;s:14:\"common.tweeted\";b:0;s:12:\"config.check\";b:0;s:11:\"config.path\";s:0:\"\";s:19:\"widget.latest.items\";i:3;s:24:\"widget.latest_news.items\";i:5;s:24:\"widget.pagespeed.enabled\";b:0;s:20:\"widget.pagespeed.key\";s:0:\"\";s:30:\"notes.wp_content_changed_perms\";b:1;s:22:\"notes.wp_content_perms\";b:1;s:19:\"notes.theme_changed\";b:0;s:17:\"notes.wp_upgraded\";b:0;s:21:\"notes.plugins_updated\";b:0;s:16:\"notes.cdn_upload\";b:0;s:18:\"notes.cdn_reupload\";b:0;s:24:\"notes.need_empty_pgcache\";b:0;s:23:\"notes.need_empty_minify\";b:0;s:28:\"notes.need_empty_objectcache\";b:0;s:16:\"notes.root_rules\";b:1;s:11:\"notes.rules\";b:1;s:24:\"notes.pgcache_rules_wpsc\";b:1;s:16:\"notes.support_us\";b:0;s:13:\"notes.no_curl\";b:1;s:13:\"notes.no_zlib\";b:1;s:29:\"notes.zlib_output_compression\";b:1;s:24:\"notes.no_permalink_rules\";b:1;s:32:\"notes.browsercache_rules_no404wp\";b:1;s:20:\"timelimit.email_send\";i:180;s:23:\"timelimit.varnish_purge\";i:300;s:21:\"timelimit.cache_flush\";i:600;s:18:\"timelimit.cache_gc\";i:600;s:20:\"timelimit.cdn_upload\";i:600;s:20:\"timelimit.cdn_delete\";i:300;s:19:\"timelimit.cdn_purge\";i:300;s:20:\"timelimit.cdn_import\";i:600;s:18:\"timelimit.cdn_test\";i:300;s:30:\"timelimit.cdn_container_create\";i:300;s:23:\"timelimit.domain_rename\";i:120;s:32:\"timelimit.minify_recommendations\";i:600;s:27:\"minify.auto.filename_length\";i:150;s:40:\"minify.auto.disable_filename_length_test\";b:0;s:18:\"common.instance_id\";i:1213646951;s:19:\"common.force_master\";b:1;s:16:\"newrelic.enabled\";b:0;s:16:\"newrelic.api_key\";s:0:\"\";s:19:\"newrelic.account_id\";s:0:\"\";s:23:\"newrelic.application_id\";i:0;s:16:\"newrelic.appname\";s:0:\"\";s:28:\"newrelic.accept.logged_roles\";b:1;s:21:\"newrelic.accept.roles\";a:1:{i:0;s:11:\"contributor\";}s:25:\"newrelic.use_php_function\";b:1;s:38:\"notes.new_relic_page_load_notification\";b:1;s:23:\"newrelic.appname_prefix\";s:13:\"Child Site - \";s:27:\"newrelic.merge_with_network\";b:1;s:19:\"newrelic.cache_time\";i:5;s:20:\"newrelic.enable_xmit\";b:0;s:28:\"newrelic.use_network_wide_id\";b:0;s:17:\"pgcache.late_init\";b:0;s:20:\"newrelic.include_rum\";b:1;s:19:\"extensions.settings\";a:2:{s:13:\"genesis.theme\";a:18:{s:7:\"wp_head\";s:1:\"0\";s:14:\"genesis_header\";s:1:\"1\";s:14:\"genesis_do_nav\";s:1:\"0\";s:17:\"genesis_do_subnav\";s:1:\"0\";s:15:\"loop_front_page\";s:1:\"1\";s:10:\"loop_terms\";s:1:\"1\";s:11:\"flush_terms\";s:1:\"1\";s:11:\"loop_single\";s:1:\"1\";s:20:\"loop_single_excluded\";s:0:\"\";s:28:\"loop_single_genesis_comments\";s:1:\"0\";s:25:\"loop_single_genesis_pings\";s:1:\"0\";s:7:\"sidebar\";s:1:\"0\";s:16:\"sidebar_excluded\";s:0:\"\";s:14:\"genesis_footer\";s:1:\"1\";s:9:\"wp_footer\";s:1:\"0\";s:19:\"reject_logged_roles\";s:1:\"1\";s:30:\"reject_logged_roles_on_actions\";a:3:{i:0;s:12:\"genesis_loop\";i:1;s:7:\"wp_head\";i:2;s:9:\"wp_footer\";}s:12:\"reject_roles\";a:1:{i:0;s:13:\"administrator\";}}s:10:\"feedburner\";a:1:{s:4:\"urls\";s:0:\"\";}}s:17:\"extensions.active\";a:0:{}s:18:\"plugin.license_key\";s:0:\"\";s:11:\"plugin.typ"..., 8192) = 3051
+08:37:43.178246 read(3, "", 8192)       = 0
+08:37:43.178272 read(3, "", 8192)       = 0
+08:37:43.178297 close(3)                = 0
+08:37:43.178711 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/PgCache.php", O_RDONLY) = 3
+08:37:43.178762 fstat(3, {st_mode=S_IFREG|0744, st_size=46569, ...}) = 0
+08:37:43.178799 mmap(NULL, 46569, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:37:43.178835 munmap(0x2ab7e0243000, 46569) = 0
+08:37:43.178865 close(3)                = 0
+08:37:43.178891 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/PgCache.php", {st_mode=S_IFREG|0744, st_size=46569, ...}) = 0
+08:37:43.179330 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Request.php", O_RDONLY) = 3
+08:37:43.179365 fstat(3, {st_mode=S_IFREG|0744, st_size=2941, ...}) = 0
+08:37:43.179395 mmap(NULL, 2941, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.179423 munmap(0x2ab7e00d0000, 2941) = 0
+08:37:43.179446 close(3)                = 0
+08:37:43.179468 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Request.php", {st_mode=S_IFREG|0744, st_size=2941, ...}) = 0
+08:37:43.179562 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Dispatcher.php", O_RDONLY) = 3
+08:37:43.179595 fstat(3, {st_mode=S_IFREG|0744, st_size=7130, ...}) = 0
+08:37:43.179624 mmap(NULL, 7130, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.179651 munmap(0x2ab7e00d0000, 7130) = 0
+08:37:43.179673 close(3)                = 0
+08:37:43.179695 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Dispatcher.php", {st_mode=S_IFREG|0744, st_size=7130, ...}) = 0
+08:37:43.179793 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Cache.php", O_RDONLY) = 3
+08:37:43.179825 fstat(3, {st_mode=S_IFREG|0744, st_size=3097, ...}) = 0
+08:37:43.179855 mmap(NULL, 3097, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.179881 munmap(0x2ab7e00d0000, 3097) = 0
+08:37:43.179903 close(3)                = 0
+08:37:43.179925 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Cache.php", {st_mode=S_IFREG|0744, st_size=3097, ...}) = 0
+08:37:43.180044 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Cache/File/Generic.php", O_RDONLY) = 3
+08:37:43.180078 fstat(3, {st_mode=S_IFREG|0744, st_size=7495, ...}) = 0
+08:37:43.180108 mmap(NULL, 7495, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.180135 munmap(0x2ab7e00d0000, 7495) = 0
+08:37:43.180157 close(3)                = 0
+08:37:43.180179 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Cache/File/Generic.php", {st_mode=S_IFREG|0744, st_size=7495, ...}) = 0
+08:37:43.180253 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/functions/file.php", O_RDONLY) = 3
+08:37:43.180286 fstat(3, {st_mode=S_IFREG|0744, st_size=9784, ...}) = 0
+08:37:43.180316 mmap(NULL, 9784, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.180342 munmap(0x2ab7e00d0000, 9784) = 0
+08:37:43.180364 close(3)                = 0
+08:37:43.180386 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/functions/file.php", {st_mode=S_IFREG|0744, st_size=9784, ...}) = 0
+08:37:43.180479 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Cache/File.php", O_RDONLY) = 3
+08:37:43.180512 fstat(3, {st_mode=S_IFREG|0744, st_size=8368, ...}) = 0
+08:37:43.180542 mmap(NULL, 8368, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.180846 munmap(0x2ab7e00d0000, 8368) = 0
+08:37:43.180878 close(3)                = 0
+08:37:43.180904 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Cache/File.php", {st_mode=S_IFREG|0744, st_size=8368, ...}) = 0
+08:37:43.180983 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Cache/Base.php", O_RDONLY) = 3
+08:37:43.181379 fstat(3, {st_mode=S_IFREG|0744, st_size=4604, ...}) = 0
+08:37:43.181415 mmap(NULL, 4604, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.181446 munmap(0x2ab7e00d0000, 4604) = 0
+08:37:43.181469 close(3)                = 0
+08:37:43.181491 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Cache/Base.php", {st_mode=S_IFREG|0744, st_size=4604, ...}) = 0
+08:37:43.181750 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/page_enhanced/infosvyaz.net/_index.html_gzip", R_OK) = -1 ENOENT (No such file or directory)
+08:37:43.181863 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/page_enhanced/infosvyaz.net/_index.html_gzip.old", F_OK) = -1 ENOENT (No such file or directory)
+08:37:43.181934 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/page_enhanced/infosvyaz.net/_index.html", R_OK) = -1 ENOENT (No such file or directory)
+08:37:43.181975 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/page_enhanced/infosvyaz.net/_index.html.old", F_OK) = -1 ENOENT (No such file or directory)
+08:37:43.182014 brk(0x55920b7b1000)     = 0x55920b7b1000
+08:37:43.182061 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/languages", F_OK) = 0
+08:37:43.182094 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/languages", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.182142 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/compat.php", {st_mode=S_IFREG|0700, st_size=7554, ...}) = 0
+08:37:43.182185 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/compat.php", O_RDONLY) = 3
+08:37:43.182215 fstat(3, {st_mode=S_IFREG|0700, st_size=7554, ...}) = 0
+08:37:43.182245 fstat(3, {st_mode=S_IFREG|0700, st_size=7554, ...}) = 0
+08:37:43.182273 fstat(3, {st_mode=S_IFREG|0700, st_size=7554, ...}) = 0
+08:37:43.182302 mmap(NULL, 7554, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.182339 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/compat.php", {st_mode=S_IFREG|0700, st_size=7554, ...}) = 0
+08:37:43.182374 munmap(0x2ab7e00d0000, 7554) = 0
+08:37:43.182399 close(3)                = 0
+08:37:43.182455 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/functions.php", {st_mode=S_IFREG|0700, st_size=149498, ...}) = 0
+08:37:43.182496 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/functions.php", O_RDONLY) = 3
+08:37:43.182525 fstat(3, {st_mode=S_IFREG|0700, st_size=149498, ...}) = 0
+08:37:43.182554 fstat(3, {st_mode=S_IFREG|0700, st_size=149498, ...}) = 0
+08:37:43.182583 fstat(3, {st_mode=S_IFREG|0700, st_size=149498, ...}) = 0
+08:37:43.182612 mmap(NULL, 149498, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:37:43.182652 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/functions.php", {st_mode=S_IFREG|0700, st_size=149498, ...}) = 0
+08:37:43.182687 munmap(0x2ab7e0243000, 149498) = 0
+08:37:43.182714 close(3)                = 0
+08:37:43.182957 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/option.php", {st_mode=S_IFREG|0700, st_size=44329, ...}) = 0
+08:37:43.182998 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/option.php", O_RDONLY) = 3
+08:37:43.183027 fstat(3, {st_mode=S_IFREG|0700, st_size=44329, ...}) = 0
+08:37:43.183056 fstat(3, {st_mode=S_IFREG|0700, st_size=44329, ...}) = 0
+08:37:43.183085 fstat(3, {st_mode=S_IFREG|0700, st_size=44329, ...}) = 0
+08:37:43.183125 mmap(NULL, 44329, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:37:43.183163 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/option.php", {st_mode=S_IFREG|0700, st_size=44329, ...}) = 0
+08:37:43.183198 munmap(0x2ab7e0243000, 44329) = 0
+08:37:43.183224 close(3)                = 0
+08:37:43.183282 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp.php", {st_mode=S_IFREG|0700, st_size=21774, ...}) = 0
+08:37:43.183322 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp.php", O_RDONLY) = 3
+08:37:43.183351 fstat(3, {st_mode=S_IFREG|0700, st_size=21774, ...}) = 0
+08:37:43.183380 fstat(3, {st_mode=S_IFREG|0700, st_size=21774, ...}) = 0
+08:37:43.183409 fstat(3, {st_mode=S_IFREG|0700, st_size=21774, ...}) = 0
+08:37:43.183438 mmap(NULL, 21774, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:37:43.183473 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp.php", {st_mode=S_IFREG|0700, st_size=21774, ...}) = 0
+08:37:43.183508 munmap(0x2ab7e0243000, 21774) = 0
+08:37:43.183532 close(3)                = 0
+08:37:43.183586 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp-error.php", {st_mode=S_IFREG|0700, st_size=5030, ...}) = 0
+08:37:43.183626 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp-error.php", O_RDONLY) = 3
+08:37:43.183655 fstat(3, {st_mode=S_IFREG|0700, st_size=5030, ...}) = 0
+08:37:43.183684 fstat(3, {st_mode=S_IFREG|0700, st_size=5030, ...}) = 0
+08:37:43.183712 fstat(3, {st_mode=S_IFREG|0700, st_size=5030, ...}) = 0
+08:37:43.183741 mmap(NULL, 5030, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.183773 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp-error.php", {st_mode=S_IFREG|0700, st_size=5030, ...}) = 0
+08:37:43.183808 munmap(0x2ab7e00d0000, 5030) = 0
+08:37:43.183831 close(3)                = 0
+08:37:43.183866 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/plugin.php", {st_mode=S_IFREG|0700, st_size=30661, ...}) = 0
+08:37:43.184128 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/plugin.php", O_RDONLY) = 3
+08:37:43.184167 fstat(3, {st_mode=S_IFREG|0700, st_size=30661, ...}) = 0
+08:37:43.184200 fstat(3, {st_mode=S_IFREG|0700, st_size=30661, ...}) = 0
+08:37:43.184231 fstat(3, {st_mode=S_IFREG|0700, st_size=30661, ...}) = 0
+08:37:43.184262 mmap(NULL, 30661, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:37:43.184307 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/plugin.php", {st_mode=S_IFREG|0700, st_size=30661, ...}) = 0
+08:37:43.184348 munmap(0x2ab7e0243000, 30661) = 0
+08:37:43.184379 close(3)                = 0
+08:37:43.184465 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/mo.php", {st_mode=S_IFREG|0700, st_size=7644, ...}) = 0
+08:37:43.184503 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.184541 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/mo.php", O_RDONLY) = 3
+08:37:43.184571 fstat(3, {st_mode=S_IFREG|0700, st_size=7644, ...}) = 0
+08:37:43.184600 fstat(3, {st_mode=S_IFREG|0700, st_size=7644, ...}) = 0
+08:37:43.184629 fstat(3, {st_mode=S_IFREG|0700, st_size=7644, ...}) = 0
+08:37:43.184658 mmap(NULL, 7644, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.184690 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/mo.php", {st_mode=S_IFREG|0700, st_size=7644, ...}) = 0
+08:37:43.184725 munmap(0x2ab7e00d0000, 7644) = 0
+08:37:43.184749 close(3)                = 0
+08:37:43.184796 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/translations.php", O_RDONLY) = 3
+08:37:43.184826 fstat(3, {st_mode=S_IFREG|0700, st_size=8369, ...}) = 0
+08:37:43.184855 mmap(NULL, 8369, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.184881 munmap(0x2ab7e00d0000, 8369) = 0
+08:37:43.184903 close(3)                = 0
+08:37:43.184924 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/translations.php", {st_mode=S_IFREG|0700, st_size=8369, ...}) = 0
+08:37:43.185006 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/entry.php", O_RDONLY) = 3
+08:37:43.185037 fstat(3, {st_mode=S_IFREG|0700, st_size=2578, ...}) = 0
+08:37:43.185067 mmap(NULL, 2578, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.185092 munmap(0x2ab7e00d0000, 2578) = 0
+08:37:43.185114 close(3)                = 0
+08:37:43.185136 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/entry.php", {st_mode=S_IFREG|0700, st_size=2578, ...}) = 0
+08:37:43.185216 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/streams.php", O_RDONLY) = 3
+08:37:43.185245 fstat(3, {st_mode=S_IFREG|0700, st_size=4988, ...}) = 0
+08:37:43.185275 mmap(NULL, 4988, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.185301 munmap(0x2ab7e00d0000, 4988) = 0
+08:37:43.185323 close(3)                = 0
+08:37:43.185345 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/streams.php", {st_mode=S_IFREG|0700, st_size=4988, ...}) = 0
+08:37:43.185476 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/wp-db.php", O_RDONLY) = 3
+08:37:43.185506 fstat(3, {st_mode=S_IFREG|0744, st_size=86980, ...}) = 0
+08:37:43.185535 mmap(NULL, 86980, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:37:43.185564 munmap(0x2ab7e0243000, 86980) = 0
+08:37:43.185589 close(3)                = 0
+08:37:43.185613 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/wp-db.php", {st_mode=S_IFREG|0744, st_size=86980, ...}) = 0
+08:37:43.185793 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/db.php", {st_mode=S_IFREG|0600, st_size=1474, ...}) = 0
+08:37:43.185840 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/db.php", {st_mode=S_IFREG|0600, st_size=1474, ...}) = 0
+08:37:43.185884 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/db.php", O_RDONLY) = 3
+08:37:43.185915 fstat(3, {st_mode=S_IFREG|0600, st_size=1474, ...}) = 0
+08:37:43.185946 mmap(NULL, 1474, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.185975 munmap(0x2ab7e00d0000, 1474) = 0
+08:37:43.186000 close(3)                = 0
+08:37:43.186023 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/db.php", {st_mode=S_IFREG|0600, st_size=1474, ...}) = 0
+08:37:43.186071 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+08:37:43.186118 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/define.php", {st_mode=S_IFREG|0744, st_size=40224, ...}) = 0
+08:37:43.186201 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Db.php", O_RDONLY) = 3
+08:37:43.186237 fstat(3, {st_mode=S_IFREG|0744, st_size=13730, ...}) = 0
+08:37:43.186268 mmap(NULL, 13730, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.186298 munmap(0x2ab7e00d0000, 13730) = 0
+08:37:43.186322 close(3)                = 0
+08:37:43.186346 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/Db.php", {st_mode=S_IFREG|0744, st_size=13730, ...}) = 0
+08:37:43.186600 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/DbCache.php", O_RDONLY) = 3
+08:37:43.186645 fstat(3, {st_mode=S_IFREG|0744, st_size=18705, ...}) = 0
+08:37:43.186681 mmap(NULL, 18705, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:37:43.186715 munmap(0x2ab7e00d0000, 18705) = 0
+08:37:43.186750 close(3)                = 0
+08:37:43.186783 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/DbCache.php", {st_mode=S_IFREG|0744, st_size=18705, ...}) = 0
+08:37:43.186917 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/db-cluster-config.php", F_OK) = -1 ENOENT (No such file or directory)
+08:37:43.187009 brk(0x55920b804000)     = 0x55920b804000
+08:37:43.187195 socket(PF_FILE, SOCK_STREAM, 0) = 3
+08:37:43.187234 fcntl(3, F_GETFL)       = 0x2 (flags O_RDWR)
+08:37:43.187269 fcntl(3, F_SETFL, O_RDWR|O_NONBLOCK) = 0
+08:37:43.187303 connect(3, {sa_family=AF_FILE, path="/var/run/mysqld/mysqld.sock"}, 29) = 0
+08:37:43.189624 fcntl(3, F_SETFL, O_RDWR) = 0
+08:37:43.189787 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:37:43.189847 recvfrom(3, "V\0\0\0", 4, MSG_DONTWAIT, NULL, NULL) = 4
+08:37:43.189895 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:37:43.189934 recvfrom(3, "\n5.7.12-5-beget-log\0\361\234}\0\31\02271MFhP\0\377\377!\2\0\377\301\25\0\0\0\0\0\0\0\0\0\0^)V_\22\31D\35\21!G=\0mysql_native_password\0", 90, MSG_DONTWAIT, NULL, NULL) = 86
+08:37:43.190005 sendto(3, "n\0\0\1\215\242\16\0\0\0\0\300!\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0infoscon_wp\0\24\2565\36gT`\34a\1\314\n\250q{\271\0`\204`.\0mysql_native_password\0\25\f_client_name\7mysqlnd", 114, MSG_DONTWAIT, NULL, 0) = 114
+08:37:43.190068 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:37:43.191859 recvfrom(3, "\7\0\0\2", 4, MSG_DONTWAIT, NULL, NULL) = 4
+08:37:43.191913 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:37:43.191953 recvfrom(3, "\0\0\0\2\0\0\0", 90, MSG_DONTWAIT, NULL, NULL) = 7
+08:37:43.192120 sendto(3, "\22\0\0\0\3SET NAMES utf8mb4", 22, MSG_DONTWAIT, NULL, 0) = 22
+08:37:43.192169 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:37:43.192235 recvfrom(3, "\7\0\0\1\0\0\0\2\0\0\0", 83, MSG_DONTWAIT, NULL, NULL) = 11
+08:37:43.192288 sendto(3, "\32\0\0\0\3SELECT @@SESSION.sql_mode", 30, MSG_DONTWAIT, NULL, 0) = 30
+08:37:43.192332 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:37:43.192393 recvfrom(3, "\1\0\0\1\1(\0\0\2\3def\0\0\0\22@@SESSION.sql_mode\0\f-\0\0\0\0\0\375\0\0\37\0\0\5\0\0\3\376\0\0\2\0\1\0\0\4\0\5\0\0\5\376\0\0\2\0", 72, MSG_DONTWAIT, NULL, NULL) = 72
+08:37:43.192492 sendto(3, "\f\0\0\0\2infoscon_wp", 16, MSG_DONTWAIT, NULL, 0) = 16
+08:37:43.192537 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:37:43.194223 recvfrom(3, "\7\0\0\1\0\0\0\2\0\0\0", 90, MSG_DONTWAIT, NULL, NULL) = 11
+08:37:43.194437 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/object-cache.php", {st_mode=S_IFREG|0600, st_size=4885, ...}) = 0
+08:37:43.194515 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/object-cache.php", {st_mode=S_IFREG|0600, st_size=4885, ...}) = 0
+08:37:43.194584 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/object-cache.php", O_RDONLY) = 13
+08:37:43.194631 fstat(13, {st_mode=S_IFREG|0600, st_size=4885, ...}) = 0
+08:37:43.194676 mmap(NULL, 4885, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e00d0000
+08:37:43.194720 munmap(0x2ab7e00d0000, 4885) = 0
+08:37:43.194754 close(13)               = 0
+08:37:43.194786 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/object-cache.php", {st_mode=S_IFREG|0600, st_size=4885, ...}) = 0
+08:37:43.194878 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/inc/define.php", {st_mode=S_IFREG|0744, st_size=40224, ...}) = 0
+08:37:43.195000 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/ObjectCacheBridge.php", O_RDONLY) = 13
+08:37:43.195056 fstat(13, {st_mode=S_IFREG|0744, st_size=6221, ...}) = 0
+08:37:43.195107 mmap(NULL, 6221, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e00d0000
+08:37:43.195149 munmap(0x2ab7e00d0000, 6221) = 0
+08:37:43.195183 close(13)               = 0
+08:37:43.195216 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/ObjectCacheBridge.php", {st_mode=S_IFREG|0744, st_size=6221, ...}) = 0
+08:37:43.195318 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/ObjectCache.php", O_RDONLY) = 13
+08:37:43.195370 fstat(13, {st_mode=S_IFREG|0744, st_size=19008, ...}) = 0
+08:37:43.195418 mmap(NULL, 19008, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e00d0000
+08:37:43.195458 munmap(0x2ab7e00d0000, 19008) = 0
+08:37:43.195494 close(13)               = 0
+08:37:43.195528 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache/lib/W3/ObjectCache.php", {st_mode=S_IFREG|0744, st_size=19008, ...}) = 0
+08:37:43.195745 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-filters.php", {st_mode=S_IFREG|0700, st_size=18777, ...}) = 0
+08:37:43.195815 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-filters.php", O_RDONLY) = 13
+08:37:43.195864 fstat(13, {st_mode=S_IFREG|0700, st_size=18777, ...}) = 0
+08:37:43.195915 fstat(13, {st_mode=S_IFREG|0700, st_size=18777, ...}) = 0
+08:37:43.195964 fstat(13, {st_mode=S_IFREG|0700, st_size=18777, ...}) = 0
+08:37:43.196013 mmap(NULL, 18777, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e00d0000
+08:37:43.196067 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-filters.php", {st_mode=S_IFREG|0700, st_size=18777, ...}) = 0
+08:37:43.196127 munmap(0x2ab7e00d0000, 18777) = 0
+08:37:43.196167 close(13)               = 0
+08:37:43.196813 brk(0x55920b84a000)     = 0x55920b84a000
+08:37:43.197075 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/l10n.php", O_RDONLY) = 13
+08:37:43.197125 fstat(13, {st_mode=S_IFREG|0744, st_size=31546, ...}) = 0
+08:37:43.197626 mmap(NULL, 31546, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e0243000
+08:37:43.197668 munmap(0x2ab7e0243000, 31546) = 0
+08:37:43.197695 close(13)               = 0
+08:37:43.197719 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/l10n.php", {st_mode=S_IFREG|0744, st_size=31546, ...}) = 0
+08:37:43.197929 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/a91/91e/a9191e38389f968367aeeb32e49ce561.php", R_OK) = 0
+08:37:43.197993 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/a91/91e/a9191e38389f968367aeeb32e49ce561.php", {st_mode=S_IFREG|0600, st_size=42, ...}) = 0
+08:37:43.198042 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/a91/91e", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.198100 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/a91", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.198162 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.198233 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.198299 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/a91/91e/a9191e38389f968367aeeb32e49ce561.php", O_RDONLY) = 13
+08:37:43.198353 fstat(13, {st_mode=S_IFREG|0600, st_size=42, ...}) = 0
+08:37:43.198401 lseek(13, 0, SEEK_CUR)  = 0
+08:37:43.198448 read(13, "\313\231|W<?php exit; ?>a:1:{s:7:\"content\";b:0;}", 8192) = 42
+08:37:43.198526 read(13, "", 8192)      = 0
+08:37:43.198584 close(13)               = 0
+08:37:43.198699 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/c43/50c/c4350c8dea4bb8e6f65d38e9af961bdc.php", R_OK) = 0
+08:37:43.198765 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/c43/50c/c4350c8dea4bb8e6f65d38e9af961bdc.php", {st_mode=S_IFREG|0600, st_size=555, ...}) = 0
+08:37:43.198828 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/c43/50c", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.198886 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/c43", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.198945 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/c43/50c/c4350c8dea4bb8e6f65d38e9af961bdc.php", O_RDONLY) = 13
+08:37:43.198996 fstat(13, {st_mode=S_IFREG|0600, st_size=555, ...}) = 0
+08:37:43.199044 lseek(13, 0, SEEK_CUR)  = 0
+08:37:43.199084 read(13, "\313\231|W<?php exit; ?>a:1:{s:7:\"content\";a:1:{s:4:\"cron\";s:491:\"a:2:{i:1467782584;a:3:{s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}s:7:\"version\";i:2;}\";}}", 8192) = 555
+08:37:43.199185 read(13, "", 8192)      = 0
+08:37:43.199234 close(13)               = 0
+08:37:43.199541 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/options/11b/50f/11b50ff8e2c46ccaf18e1ff168650371.php", R_OK) = 0
+08:37:43.199603 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/options/11b/50f/11b50ff8e2c46ccaf18e1ff168650371.php", {st_mode=S_IFREG|0600, st_size=572, ...}) = 0
+08:37:43.199666 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/options/11b/50f", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.199723 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/options/11b", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.199779 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/options", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.199836 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.199891 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.199948 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/options/11b/50f/11b50ff8e2c46ccaf18e1ff168650371.php", O_RDONLY) = 13
+08:37:43.200000 fstat(13, {st_mode=S_IFREG|0600, st_size=572, ...}) = 0
+08:37:43.200049 lseek(13, 0, SEEK_CUR)  = 0
+08:37:43.200087 read(13, "\313\231|W<?php exit; ?>a:6:{s:10:\"last_error\";s:0:\"\";s:10:\"last_query\";s:65:\"SELECT option_value FROM wp_options WHERE option_name = 'siteurl'\";s:11:\"last_result\";a:0:{}s:8:\"col_info\";a:1:{i:0;O:8:\"stdClass\":13:{s:4:\"name\";s:12:\"option_value\";s:7:\"orgname\";s:12:\"option_value\";s:5:\"table\";s:10:\"wp_options\";s:8:\"orgtable\";s:10:\"wp_options\";s:3:\"def\";s:0:\"\";s:2:\"db\";s:11:\"infoscon_wp\";s:7:\"catalog\";s:3:\"def\";s:10:\"max_length\";i:0;s:6:\"length\";i:4294967295;s:9:\"charsetnr\";i:45;s:5:\"flags\";i:4113;s:4:\"type\";i:252;s:8:\"decimals\";i:0;}}s:8:\"num_rows\";i:0;s:10:\"return_val\";i:0;}", 8192) = 572
+08:37:43.200179 read(13, "", 8192)      = 0
+08:37:43.200244 close(13)               = 0
+08:37:43.200342 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/a91/91e", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.200410 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/object/000000/a91/91e/a9191e38389f968367aeeb32e49ce561.php", O_WRONLY|O_CREAT|O_TRUNC, 0666) = 13
+08:37:43.200498 fstat(13, {st_mode=S_IFREG|0600, st_size=0, ...}) = 0
+08:37:43.200546 lseek(13, 0, SEEK_CUR)  = 0
+08:37:43.200886 write(13, "\333\231|W", 4) = 4
+08:37:43.200944 write(13, "<?php exit; ?>", 14) = 14
+08:37:43.200998 write(13, "a:1:{s:7:\"content\";b:0;}", 24) = 24
+08:37:43.201040 close(13)               = 0
+08:37:43.201727 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/all/765/14e/76514e98882d0901b02a007ad53720f9.php", R_OK) = 0
+08:37:43.201788 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/all/765/14e/76514e98882d0901b02a007ad53720f9.php", {st_mode=S_IFREG|0600, st_size=3781, ...}) = 0
+08:37:43.201850 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/all/765/14e", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.201913 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/all/765", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.201978 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/all", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:37:43.202038 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/cache/db/000000/all/765/14e/76514e98882d0901b02a007ad53720f9.php", O_RDONLY) = 13
+08:37:43.202325 fstat(13, {st_mode=S_IFREG|0600, st_size=3781, ...}) = 0
+08:37:43.202379 lseek(13, 0, SEEK_CUR)  = 0
+08:37:43.202431 read(13, "\313\231|W<?php exit; ?>a:6:{s:10:\"last_error\";s:0:\"\";s:10:\"last_query\";s:18:\"DESCRIBE wp_users;\";s:11:\"last_result\";a:10:{i:0;O:8:\"stdClass\":6:{s:5:\"Field\";s:2:\"ID\";s:4:\"Type\";s:19:\"bigint(20) unsigned\";s:4:\"Null\";s:2:\"NO\";s:3:\"Key\";s:3:\"PRI\";s:7:\"Default\";N;s:5:\"Extra\";s:14:\"auto_increment\";}i:1;O:8:\"stdClass\":6:{s:5:\"Field\";s:10:\"user_login\";s:4:\"Type\";s:11:\"varchar(60)\";s:4:\"Null\";s:2:\"NO\";s:3:\"Key\";s:3:\"MUL\";s:7:\"Default\";s:0:\"\";s:5:\"Extra\";s:0:\"\";}i:2;O:8:\"stdClass\":6:{s:5:\"Field\";s:9:\"user_pass\";s:4:\"Type\";s:11:\"varchar(64)\";s:4:\"Null\";s:2:\"NO\";s:3:\"Key\";s:0:\"\";s:7:\"Default\";s:0:\"\";s:5:\"Extra\";s:0:\"\";}i:3;O:8:\"stdClass\":6:{s:5:\"Field\";s:13:\"user_nicename\";s:4:\"Type\";s:11:\"varchar(50)\";s:4:\"Null\";s:2:\"NO\";s:3:\"Key\";s:3:\"MUL\";s:7:\"Default\";s:0:\"\";s:5:\"Extra\";s:0:\"\";}i:4;O:8:\"stdClass\":6:{s:5:\"Field\";s:10:\"user_email\";s:4:\"Type\";s:12:\"varchar(100)\";s:4:\"Null\";s:2:\"NO\";s:3:\"Key\";s:0:\"\";s:7:\"Default\";s:0:\"\";s:5:\"Extra\";s:0:\"\";}i:5;O:8:\"stdClass\":6:{s:5:\"Field\";s:8:\"user_url\";s:4:\"Type\";s:12:\"varchar(100)\";s:4:\"Null\";s:2:\"NO\";s:3:\"Key\";s:0:\"\";s:7:\"Default\";s:0:\"\";s:5:\"Extra\";s:0:\"\";}i:6;O:8:\"stdClass\":6:{s:5:\"Field\";s:15:\"user_registered\";s:4:\"Type\";s:8:\"datetime\";s:4:\"Null\";s:2:\"NO\";s:3:\"Key\";s:0:\"\";s:7:\"Default\";s:19:\"0000-00-00 00:00:00\";s:5:\"Extra\";s:0:\"\";}i:7;O:8:\"stdClass\":6:{s:5:\"Field\";s:19:\"user_activation_key\";s:4:\"Type\";s:11:\"varchar(60)\";s:4:\"Null\";s:2:\"NO\";s:3:\"Key\";s:0:\"\";s:7:\"Default\";s:0:\"\";s:5:\"Extra\";s:0:\"\";}i:8;O:8:\"stdClass\":6:{s:5:\"Field\";s:11:\"user_status\";s:4:\"Type\";s:7:\"int(11)\";s:4:\"Null\";s:2:\"NO\";s:3:\"Key\";s:0:\"\";s:7:\"Default\";s:1:\"0\";s:5:\"Extra\";s:0:\"\";}i:9;O:8:\"stdClass\":6:{s:5:\"Field\";s:12:\"display_name\";s:4:\"Type\";s:12:\"varchar(250)\";s:4:\"Null\";s:2:\"NO\";s:3:\"Key\";s:0:\"\";s:7:\"Default\";s:0:\"\";s:5:\"Extra\";s:0:\"\";}}s:8:\"col_info\";a:6:{i:0;O:8:\"stdClass\":13:{s:4:\"name\";s:5:\"Field\";s:7:\"orgname\";s:11:\"COLUMN_NAME\";s:5:\"table\";s:7:\"COLUMNS\";s:8:\"orgtable\";s:7:\"COLUMNS\";s:3:\"def\";s:0:\"\";s:2:\"db\";s:18:\"information_schema\";s:7:\"catalog\";s:3:\"def\";s:10:\"max_length\";i:19;s:6:\"length\";i:256;s:9:\"charsetnr\";i:45;s:5:\"flags\";i:1;s:4:\"type\";i:253;s:8:\"decimals\";i:0;}i:1;O:8:\"stdClass\":13:{s:4:\"name\";s:4:\"Type\";s:7:\"orgname\";s:11:\"COLUMN_TYPE\";s:5:\"table\";s:7:\"COLUMNS\";s:8:\"orgtable\";s:7:\"COLUMNS\";s:3:\"def\";s:0:\"\";s:2:\"db\";s:18:\"information_schema\";s:7:\"catalog\";s:3:\"def\";s:10:\"max_length\";i:0;s:6:\"length\";i:786420;s:9:\"charsetnr\";i:45;s:5:\"flags\";i:17;s:4:\"type\";i:252;s:8:\"decimals\";i:0;}i:2;O:8:\"stdClass\":13:{s:4:\"name\";s:4:\"Null\";s:7:\"orgname\";s:11:\"IS_NULLABLE\";s:5:\"table\";s:7:\"COLUMNS\";s:8:\"orgtable\";s:7:\"COLUMNS\";s:3:\"def\";s:0:\"\";s:2:\"db\";s:18:\"information_schema\";s:7:\"catalog\";s:3:\"def\";s:10:\"max_length\";i:0;s:6:\"length\";i:12;s:9:\"charsetnr\";i:45;s:5:\"flags\";i:1;s:4:\"type\";i:253;s:8:\"decimals\";i:0;}i:3;O:8:\"stdClass\":13:{s:4:\"name\";s:3:\"Key\";s:7:\"orgname\";s:10:\"COLUMN_KEY\";s:5:\"table\";s:7:\"COLUMNS\";s:8:\"orgtable\";s:7:\"COLUMNS\";s:3:\"def\";s:0:\"\";s:2:\"db\";s:18:\"information_schema\";s:7:\"catalog\";s:3:\"def\";s:10:\"max_length\";i:0;s:6:\"len"..., 8192) = 3781
+08:37:43.202717 read(13, "", 8192)      = 0
+08:37:43.202912 close(13)               = 0
+08:37:43.203015 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/version.php", O_RDONLY) = 13
+08:37:43.203071 fstat(13, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:37:43.203121 fstat(13, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:37:43.203170 fstat(13, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:37:43.203220 mmap(NULL, 619, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e00d0000
+08:37:43.203281 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/version.php", {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:37:43.203350 munmap(0x2ab7e00d0000, 619) = 0
+08:37:43.203392 close(13)               = 0
+08:37:43.203464 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/locale.php", O_RDONLY) = 13
+08:37:43.203515 fstat(13, {st_mode=S_IFREG|0700, st_size=12544, ...}) = 0
+08:37:43.203565 mmap(NULL, 12544, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e00d0000
+08:37:43.203610 munmap(0x2ab7e00d0000, 12544) = 0
+08:37:43.203647 close(13)               = 0
+08:37:43.203683 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/locale.php", {st_mode=S_IFREG|0700, st_size=12544, ...}) = 0
+08:37:43.204296 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/db-error.php", F_OK) = -1 ENOENT (No such file or directory)
+08:37:43.204448 chdir("/")              = 0
+08:37:43.204535 setitimer(ITIMER_PROF, {it_interval={0, 0}, it_value={0, 0}}, NULL) = 0
+08:37:43.204772 getrusage(RUSAGE_SELF, {ru_utime={0, 9999}, ru_stime={0, 6666}, ...}) = 0
+08:37:43.204844 socket(PF_FILE, SOCK_DGRAM|SOCK_CLOEXEC, 0) = 13
+08:37:43.204874 connect(13, {sa_family=AF_FILE, path="/dev/log"}, 110) = 0
+08:37:43.204917 sendto(13, "<8>Jul  6 08:37:43 php: begethook infoscon__infoscon_ru__nd infosvyaz.net [BEGETHOOK_RUSAGE] uri / utime 9999 stime 6666 /home/i/infoscon/infoscon.ru/public_html/index.php ++0  ", 177, MSG_NOSIGNAL, NULL, 0) = 177
+08:37:43.204962 close(13)               = 0
+08:37:43.205002 fcntl(9, F_SETLK, {type=F_UNLCK, whence=SEEK_SET, start=0, len=0}) = 0
+08:37:43.205501 sendto(3, "\1\0\0\0\1", 5, MSG_DONTWAIT, NULL, 0) = 5
+08:37:43.205558 close(3)                = 0
+08:37:43.206227 setitimer(ITIMER_PROF, {it_interval={0, 0}, it_value={0, 0}}, NULL) = 0
+08:37:43.206327 writev(12, [{"HTTP/1.1 500 Internal Server Error\r\nDate: Wed, 06 Jul 2016 05:37:42 GMT\r\nServer: Apache/2.4.10 (Unix)\r\nVary: Accept-Encoding,User-Agent\r\nX-Powered-By: PHP/5.5.34\r\nExpires: Wed, 11 Jan 1984 05:00:00 GMT\r\nCache-Control: no-cache, must-revalidate, max-age=0\r\nPragma: no-cache\r\nContent-Length: 251\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\n\r\n", 356}, {"<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n\t<title>Database Error</title>\n\n</head>\n<body>\n\t<h1>Error establishing a database connection</h1>\n</body>\n</html>\n", 251}], 2) = 607
+08:37:43.206506 write(7, "{ \"@timestamp\": \"2016-07-06T08:37:42+0300\", \"@fields\": { \"vhost\": \"infosvyaz.net\", \"ip\": \"5.101.159.150\", \"method\": \"GET\", \"url\": \"/index.php\", \"user\": \"-\", \"status\": \"500\", \"user_agent\": \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0\", \"referer\": \"-\", \"bytes_sent\": \"251\" },  \"@message\": \"infosvyaz.net 5.101.159.150 - - [06/Jul/2016:08:37:42 +0300] \\\"GET / HTTP/1.1\\\" 500 251 \\\"-\\\" \\\"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0\\\"\" }\n", 499) = 499
+08:37:43.206576 write(8, "infosvyaz.net 5.101.159.150 - - [06/Jul/2016:08:37:42 +0300] \"GET / HTTP/1.1\" 500 251 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0\"\n", 169) = 169
+08:37:43.206628 times({tms_utime=1, tms_stime=0, tms_cutime=0, tms_cstime=0}) = 1785720225
+08:37:43.208617 exit_group(0)           = ?

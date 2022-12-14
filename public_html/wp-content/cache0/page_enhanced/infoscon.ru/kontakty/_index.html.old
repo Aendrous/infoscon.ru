@@ -1,0 +1,98 @@
+<!DOCTYPE html><html
+lang="ru"><head><meta
+name=viewport content="width=device-width, initial-scale=1"><meta
+charset="UTF-8"><title>Контакты | ИнфоСвязь Консалтинг</title><meta
+name="description" content="" /><meta
+name="keywords" content="" /></head><body><div
+class="deshevle"> <a
+href="/uslugi/"> <img
+src="http://infoscon.ru/wp-content/themes/infoscon/images/deshevle.png" alt="Самые низкие цены на лицензии связи"> </a></div><div
+id="contactForm" class="contactForm"><form
+action="#"><div
+class="orderclose">+</div><div
+class="contactform-label">Задайте свой вопрос</div> <label>Представьтесь: <input
+type="text" placeholder="Ваше имя" id="form_name"> </label> <label>Контакты: <input
+type="text" placeholder="e-mail или номер телефона" id="form_contact"> </label><textarea name="text" cols="30" rows="10" placeholder="Что Вас интересует?" id="form_text"></textarea><button
+class="send_mail">Отправить</button></form></div><div
+id="PostOrderForm" class="contactForm"><form
+action="#"><div
+class="orderclose">+</div><div
+class="h1">Сделать заказ:</div> <label>Представьтесь: <input
+type="text" placeholder="Ваше имя" name="name" id="form_name_order"> </label> <label>Контакты: <input
+type="text" placeholder="e-mail или номер телефона" name="contact" id="form_contact_order"> </label><textarea name="" cols="30" rows="6" placeholder="Что Вас интересует?" name="text" id="form_text_order"></textarea><button
+class="send_order">Заказать</button></form></div> <header> <section
+class="header"><div
+class="xmenu"><div
+class="x1"></div><div
+class="x2"></div><div
+class="x3"></div></div><div
+class="logo"> <img
+src="http://infoscon.ru/wp-content/themes/infoscon/images/logo_infosvyaz_ru.png" alt="ИнфоСвязь Консалтинг" class="gohome"></div><ul
+id="menu-top_menu" class="top_menu"><li><a
+href="http://infoscon.ru/kompaniya/">О нас</a></li><li><a
+href="http://infoscon.ru/uslugi/">Услуги</a></li><li
+class="current-menu-item"><a
+href="http://infoscon.ru/kontakty/">Контакты</a></li></ul> <a
+class="order" id="freeCons">Задаем вопросы</a> </section> </header><div
+class="mobile_menu"> <a
+href="/"> <img
+src="http://infoscon.ru/wp-content/themes/infoscon/images/logo_infosvyaz_ru.png" alt="ИнфоСвязь Консалтинг" class="gohome"> </a></div><div
+class="main"><section
+class="page"><div
+class="container"><h1>Контакты</h1><blockquote><p>Компания &#171;ИнфоСвязь Консалтинг&#187; специализируемся на оказании помощи в получении и/или продлении лицензий связи на всей территории РФ.</p></blockquote><p>Мы опираемся на многолетний опыт работы в сфере лицензирования услуг связи и потому гарантируем высочайший результат.</p><h2>Контактная информация</h2><p><strong>Представительство</strong>: г.Москва, ул.Ленинский пр., д.81<br
+/> <strong>Контактный телефон</strong>: 8 (985) 126-43-14<br
+/> <strong>E-mail</strong>: <a
+href="mailto:info@infoscon.ru">info@infoscon.ru</a><br
+/> <strong>Режим работы</strong>: пн-пт с 10:00 до 19:00</p><h2>Мы ждем Ваших писем и будем рады помочь.</h2><div
+class="contactpage"><div
+class="contactpage__contact"><form
+action="" class="contactpage__form"><div
+class="contactpage__form__label"><h3>Напишите нам:</h3></div> <input
+type="text" placeholder="Организация" id="contact_org"> <input
+type="text" placeholder="Контактное лицо" id="contact_face"> <input
+type="text" placeholder="E-mail" id="contact_email"> <input
+type="text" placeholder="Телефон" id="contact_phone"><div
+class="contactpage__form__about"><div
+class="contactpage__form__label--check">Тема сообщения:</div> <label> <input
+type="checkbox" checked>Общие вопросы </label> <label> <input
+type="checkbox">Лицензирование услуг связи </label> <label> <input
+type="checkbox">Продление лицензий связи </label></div><textarea placeholder="Введите сообщение" id="contact_text"></textarea><button
+id="contact_send">Отправить</button></form></div><div
+class="contactpage__contact"> <iframe
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.3347417642135!2d37.5392718!3d55.6831678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54cf1b83cf23d%3A0x7e9101657d17e3c8!2z0JvQtdC90LjQvdGB0LrQuNC5INC_0YAuLCA4MSwg0JzQvtGB0LrQstCwLCAxMTkyNjE!5e0!3m2!1sru!2sru!4v1438117634318" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div></div></div> </section></div><footer> <section> <nav
+class="nav-info"><ul><div
+class="nav__title">Разделы</div><ul
+id="menu-footer_menu_info" class=""><li><a
+href="http://infoscon.ru/index/">Главная страница</a></li><li><a
+href="http://infoscon.ru/uslugi/">Услуги</a></li><li><a
+href="http://infoscon.ru/kompaniya/">О нас</a></li><li
+class="current-menu-item"><a
+href="http://infoscon.ru/kontakty/">Контакты</a></li><li><a
+href="http://infoscon.ru/informrazdel/">Информация</a></li></ul></ul> </nav> <nav
+class="nav-service"><ul><div
+class="nav__title">Услуги</div><ul
+id="menu-footer_menu_service" class=""><li><a
+href="http://infoscon.ru/uslugi/litsenzii-svyazi/">Лицензии на услуги связи</a></li><li><a
+href="http://infoscon.ru/uslugi/razresheniya-na-chastoty/">Разрешения на частоты</a></li><li><a
+href="http://infoscon.ru/uslugi/litsenzii-na-veshhanie/">Лицензии на вещание</a></li><li><a
+href="http://infoscon.ru/uslugi/smi/">Регистрация СМИ</a></li><li><a
+href="http://infoscon.ru/uslugi/prodlenie-i-pereoformlenie/">Продление и переоформление</a></li></ul></ul> </nav><div
+class="contact_block_container"><div
+class="contact_block"><div
+class="label">Контактная информация</div><p><strong>Адрес</strong>: г.Москва, ул.Ленинский пр., д.81<br
+/> <strong>Контактный телефон</strong>: 8 (985) 126-43-14<br
+/> <strong>E-mail</strong>: <a
+href="mailto:info@infoscon.ru">info@infoscon.ru</a><br
+/> <strong>Режим работы</strong>: пн-пт с 10:00 до 19:00</div><div
+class="order" id="bottomForm">Заказать лицензию</div></div> <section
+class="copyright">© Компания "Инфо Связь Консалтинг" 2008-2016г, лицензирование услуг связи.<div> <a
+href="http://infoscon.ru/sitemap/">Карта сайта</a> / <a
+href="http://infoscon.ru/license-pro.ru/" target="_blank">Old ver.</a></div> </section>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Database Caching 16/20 queries in 0.005 seconds using disk
+Object Caching 670/675 objects using disk
+
+ Served from: infoscon.ru @ 2016-07-06 03:10:28 by W3 Total Cache -->

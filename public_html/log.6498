@@ -1,0 +1,267 @@
+08:43:46.768596 --- SIGSTOP (Stopped (signal)) @ 0 (0) ---
+08:43:46.768655 --- SIGSTOP (Stopped (signal)) @ 0 (0) ---
+08:43:46.768713 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-blog-header.php", {st_mode=S_IFREG|0700, st_size=271, ...}) = 0
+08:43:46.768799 open("/home/i/infoscon/infoscon.ru/public_html/wp-blog-header.php", O_RDONLY) = 3
+08:43:46.768834 fstat(3, {st_mode=S_IFREG|0700, st_size=271, ...}) = 0
+08:43:46.768865 fstat(3, {st_mode=S_IFREG|0700, st_size=271, ...}) = 0
+08:43:46.768893 fstat(3, {st_mode=S_IFREG|0700, st_size=271, ...}) = 0
+08:43:46.768921 mmap(NULL, 271, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.768963 stat("/home/i/infoscon/infoscon.ru/public_html/wp-blog-header.php", {st_mode=S_IFREG|0700, st_size=271, ...}) = 0
+08:43:46.769005 munmap(0x2ab7e00d0000, 271) = 0
+08:43:46.769033 close(3)                = 0
+08:43:46.769081 open("/home/i/infoscon/infoscon.ru/public_html/wp-load.php", O_RDONLY) = 3
+08:43:46.769111 fstat(3, {st_mode=S_IFREG|0700, st_size=3123, ...}) = 0
+08:43:46.769145 mmap(NULL, 3123, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.769173 munmap(0x2ab7e00d0000, 3123) = 0
+08:43:46.769194 close(3)                = 0
+08:43:46.769216 stat("/home/i/infoscon/infoscon.ru/public_html/wp-load.php", {st_mode=S_IFREG|0700, st_size=3123, ...}) = 0
+08:43:46.769287 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-config.php", {st_mode=S_IFREG|0700, st_size=4514, ...}) = 0
+08:43:46.769326 stat("/home/i/infoscon/infoscon.ru/public_html/wp-config.php", {st_mode=S_IFREG|0700, st_size=4514, ...}) = 0
+08:43:46.769364 open("/home/i/infoscon/infoscon.ru/public_html/wp-config.php", O_RDONLY) = 3
+08:43:46.769390 fstat(3, {st_mode=S_IFREG|0700, st_size=4514, ...}) = 0
+08:43:46.769418 mmap(NULL, 4514, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.769444 munmap(0x2ab7e00d0000, 4514) = 0
+08:43:46.769466 close(3)                = 0
+08:43:46.769487 stat("/home/i/infoscon/infoscon.ru/public_html/wp-config.php", {st_mode=S_IFREG|0700, st_size=4514, ...}) = 0
+08:43:46.769611 open("/home/i/infoscon/infoscon.ru/public_html/wp-settings.php", O_RDONLY) = 3
+08:43:46.769639 fstat(3, {st_mode=S_IFREG|0700, st_size=11048, ...}) = 0
+08:43:46.769667 mmap(NULL, 11048, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.769692 munmap(0x2ab7e00d0000, 11048) = 0
+08:43:46.769714 close(3)                = 0
+08:43:46.769735 stat("/home/i/infoscon/infoscon.ru/public_html/wp-settings.php", {st_mode=S_IFREG|0700, st_size=11048, ...}) = 0
+08:43:46.769781 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/load.php", {st_mode=S_IFREG|0700, st_size=24428, ...}) = 0
+08:43:46.769815 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:43:46.769853 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/load.php", O_RDONLY) = 3
+08:43:46.769881 fstat(3, {st_mode=S_IFREG|0700, st_size=24428, ...}) = 0
+08:43:46.769909 fstat(3, {st_mode=S_IFREG|0700, st_size=24428, ...}) = 0
+08:43:46.769936 fstat(3, {st_mode=S_IFREG|0700, st_size=24428, ...}) = 0
+08:43:46.769964 mmap(NULL, 24428, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:43:46.770004 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/load.php", {st_mode=S_IFREG|0700, st_size=24428, ...}) = 0
+08:43:46.770038 munmap(0x2ab7e0243000, 24428) = 0
+08:43:46.770062 close(3)                = 0
+08:43:46.770164 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-constants.php", {st_mode=S_IFREG|0700, st_size=8052, ...}) = 0
+08:43:46.770204 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-constants.php", O_RDONLY) = 3
+08:43:46.770233 fstat(3, {st_mode=S_IFREG|0700, st_size=8052, ...}) = 0
+08:43:46.770261 fstat(3, {st_mode=S_IFREG|0700, st_size=8052, ...}) = 0
+08:43:46.770289 fstat(3, {st_mode=S_IFREG|0700, st_size=8052, ...}) = 0
+08:43:46.770317 mmap(NULL, 8052, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.770351 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-constants.php", {st_mode=S_IFREG|0700, st_size=8052, ...}) = 0
+08:43:46.770385 munmap(0x2ab7e00d0000, 8052) = 0
+08:43:46.770413 close(3)                = 0
+08:43:46.770455 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/version.php", {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:43:46.770494 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/version.php", O_RDONLY) = 3
+08:43:46.770523 fstat(3, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:43:46.770819 fstat(3, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:43:46.770849 fstat(3, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:43:46.770877 mmap(NULL, 619, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.770911 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/version.php", {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:43:46.770947 munmap(0x2ab7e00d0000, 619) = 0
+08:43:46.770970 close(3)                = 0
+08:43:46.771152 access("/home/i/infoscon/infoscon.ru/public_html/.maintenance", F_OK) = -1 ENOENT (No such file or directory)
+08:43:46.771207 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/languages", F_OK) = 0
+08:43:46.771239 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/languages", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:43:46.771280 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/compat.php", {st_mode=S_IFREG|0700, st_size=7554, ...}) = 0
+08:43:46.771322 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/compat.php", O_RDONLY) = 3
+08:43:46.771351 fstat(3, {st_mode=S_IFREG|0700, st_size=7554, ...}) = 0
+08:43:46.771379 fstat(3, {st_mode=S_IFREG|0700, st_size=7554, ...}) = 0
+08:43:46.771407 fstat(3, {st_mode=S_IFREG|0700, st_size=7554, ...}) = 0
+08:43:46.771435 mmap(NULL, 7554, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.771476 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/compat.php", {st_mode=S_IFREG|0700, st_size=7554, ...}) = 0
+08:43:46.771510 munmap(0x2ab7e00d0000, 7554) = 0
+08:43:46.771534 close(3)                = 0
+08:43:46.771590 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/functions.php", {st_mode=S_IFREG|0700, st_size=149498, ...}) = 0
+08:43:46.771629 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/functions.php", O_RDONLY) = 3
+08:43:46.771657 fstat(3, {st_mode=S_IFREG|0700, st_size=149498, ...}) = 0
+08:43:46.771685 fstat(3, {st_mode=S_IFREG|0700, st_size=149498, ...}) = 0
+08:43:46.771713 fstat(3, {st_mode=S_IFREG|0700, st_size=149498, ...}) = 0
+08:43:46.771741 mmap(NULL, 149498, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:43:46.771781 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/functions.php", {st_mode=S_IFREG|0700, st_size=149498, ...}) = 0
+08:43:46.771815 munmap(0x2ab7e0243000, 149498) = 0
+08:43:46.771841 close(3)                = 0
+08:43:46.772027 brk(0x55920b72d000)     = 0x55920b72d000
+08:43:46.772131 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/option.php", {st_mode=S_IFREG|0700, st_size=44329, ...}) = 0
+08:43:46.772171 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/option.php", O_RDONLY) = 3
+08:43:46.772199 fstat(3, {st_mode=S_IFREG|0700, st_size=44329, ...}) = 0
+08:43:46.772227 fstat(3, {st_mode=S_IFREG|0700, st_size=44329, ...}) = 0
+08:43:46.772255 fstat(3, {st_mode=S_IFREG|0700, st_size=44329, ...}) = 0
+08:43:46.772282 mmap(NULL, 44329, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:43:46.772320 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/option.php", {st_mode=S_IFREG|0700, st_size=44329, ...}) = 0
+08:43:46.772354 munmap(0x2ab7e0243000, 44329) = 0
+08:43:46.772379 close(3)                = 0
+08:43:46.772438 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp.php", {st_mode=S_IFREG|0700, st_size=21774, ...}) = 0
+08:43:46.772479 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp.php", O_RDONLY) = 3
+08:43:46.772508 fstat(3, {st_mode=S_IFREG|0700, st_size=21774, ...}) = 0
+08:43:46.772536 fstat(3, {st_mode=S_IFREG|0700, st_size=21774, ...}) = 0
+08:43:46.772563 fstat(3, {st_mode=S_IFREG|0700, st_size=21774, ...}) = 0
+08:43:46.772590 mmap(NULL, 21774, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:43:46.772632 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp.php", {st_mode=S_IFREG|0700, st_size=21774, ...}) = 0
+08:43:46.772668 munmap(0x2ab7e0243000, 21774) = 0
+08:43:46.772691 close(3)                = 0
+08:43:46.772730 brk(0x55920b772000)     = 0x55920b772000
+08:43:46.772786 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp-error.php", {st_mode=S_IFREG|0700, st_size=5030, ...}) = 0
+08:43:46.772826 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp-error.php", O_RDONLY) = 3
+08:43:46.772855 fstat(3, {st_mode=S_IFREG|0700, st_size=5030, ...}) = 0
+08:43:46.772883 fstat(3, {st_mode=S_IFREG|0700, st_size=5030, ...}) = 0
+08:43:46.772910 fstat(3, {st_mode=S_IFREG|0700, st_size=5030, ...}) = 0
+08:43:46.772938 mmap(NULL, 5030, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.772970 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/class-wp-error.php", {st_mode=S_IFREG|0700, st_size=5030, ...}) = 0
+08:43:46.773004 munmap(0x2ab7e00d0000, 5030) = 0
+08:43:46.773027 close(3)                = 0
+08:43:46.773061 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/plugin.php", {st_mode=S_IFREG|0700, st_size=30661, ...}) = 0
+08:43:46.773101 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/plugin.php", O_RDONLY) = 3
+08:43:46.773129 fstat(3, {st_mode=S_IFREG|0700, st_size=30661, ...}) = 0
+08:43:46.773157 fstat(3, {st_mode=S_IFREG|0700, st_size=30661, ...}) = 0
+08:43:46.773184 fstat(3, {st_mode=S_IFREG|0700, st_size=30661, ...}) = 0
+08:43:46.773212 mmap(NULL, 30661, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:43:46.773246 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/plugin.php", {st_mode=S_IFREG|0700, st_size=30661, ...}) = 0
+08:43:46.773280 munmap(0x2ab7e0243000, 30661) = 0
+08:43:46.773304 close(3)                = 0
+08:43:46.773372 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/mo.php", {st_mode=S_IFREG|0700, st_size=7644, ...}) = 0
+08:43:46.773407 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:43:46.773446 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/mo.php", O_RDONLY) = 3
+08:43:46.773475 fstat(3, {st_mode=S_IFREG|0700, st_size=7644, ...}) = 0
+08:43:46.773503 fstat(3, {st_mode=S_IFREG|0700, st_size=7644, ...}) = 0
+08:43:46.773530 fstat(3, {st_mode=S_IFREG|0700, st_size=7644, ...}) = 0
+08:43:46.773558 mmap(NULL, 7644, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.773589 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/mo.php", {st_mode=S_IFREG|0700, st_size=7644, ...}) = 0
+08:43:46.773623 munmap(0x2ab7e00d0000, 7644) = 0
+08:43:46.773646 close(3)                = 0
+08:43:46.773695 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/translations.php", O_RDONLY) = 3
+08:43:46.773725 fstat(3, {st_mode=S_IFREG|0700, st_size=8369, ...}) = 0
+08:43:46.773753 mmap(NULL, 8369, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.773779 munmap(0x2ab7e00d0000, 8369) = 0
+08:43:46.773800 close(3)                = 0
+08:43:46.773821 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/translations.php", {st_mode=S_IFREG|0700, st_size=8369, ...}) = 0
+08:43:46.773958 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/entry.php", O_RDONLY) = 3
+08:43:46.773995 fstat(3, {st_mode=S_IFREG|0700, st_size=2578, ...}) = 0
+08:43:46.774024 mmap(NULL, 2578, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.774049 munmap(0x2ab7e00d0000, 2578) = 0
+08:43:46.774071 close(3)                = 0
+08:43:46.774092 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/entry.php", {st_mode=S_IFREG|0700, st_size=2578, ...}) = 0
+08:43:46.774170 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/streams.php", O_RDONLY) = 3
+08:43:46.774200 fstat(3, {st_mode=S_IFREG|0700, st_size=4988, ...}) = 0
+08:43:46.774228 mmap(NULL, 4988, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.774253 munmap(0x2ab7e00d0000, 4988) = 0
+08:43:46.774275 close(3)                = 0
+08:43:46.774300 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/pomo/streams.php", {st_mode=S_IFREG|0700, st_size=4988, ...}) = 0
+08:43:46.774425 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/wp-db.php", O_RDONLY) = 3
+08:43:46.774454 fstat(3, {st_mode=S_IFREG|0744, st_size=86980, ...}) = 0
+08:43:46.774482 mmap(NULL, 86980, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e0243000
+08:43:46.774510 munmap(0x2ab7e0243000, 86980) = 0
+08:43:46.774535 close(3)                = 0
+08:43:46.774556 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/wp-db.php", {st_mode=S_IFREG|0744, st_size=86980, ...}) = 0
+08:43:46.774694 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/db.php", {st_mode=S_IFREG|0600, st_size=1474, ...}) = 0
+08:43:46.774730 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+08:43:46.774764 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/db.php", {st_mode=S_IFREG|0600, st_size=1474, ...}) = 0
+08:43:46.774805 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/db.php", O_RDONLY) = 3
+08:43:46.774832 fstat(3, {st_mode=S_IFREG|0600, st_size=1474, ...}) = 0
+08:43:46.774860 mmap(NULL, 1474, PROT_READ, MAP_SHARED, 3, 0) = 0x2ab7e00d0000
+08:43:46.774885 munmap(0x2ab7e00d0000, 1474) = 0
+08:43:46.774907 close(3)                = 0
+08:43:46.774928 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/db.php", {st_mode=S_IFREG|0600, st_size=1474, ...}) = 0
+08:43:46.774977 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache", 0x7ffe48aa58b0) = -1 ENOENT (No such file or directory)
+08:43:46.775090 socket(PF_FILE, SOCK_STREAM, 0) = 3
+08:43:46.775120 fcntl(3, F_GETFL)       = 0x2 (flags O_RDWR)
+08:43:46.775142 fcntl(3, F_SETFL, O_RDWR|O_NONBLOCK) = 0
+08:43:46.775163 connect(3, {sa_family=AF_FILE, path="/var/run/mysqld/mysqld.sock"}, 29) = 0
+08:43:46.775206 fcntl(3, F_SETFL, O_RDWR) = 0
+08:43:46.775230 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.775338 recvfrom(3, "V\0\0\0", 4, MSG_DONTWAIT, NULL, NULL) = 4
+08:43:46.775380 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.775408 recvfrom(3, "\n5.7.12-5-beget-log\0\34\313}\0006X\21%@%\\r\0\377\377!\2\0\377\301\25\0\0\0\0\0\0\0\0\0\0\f\37(X{n &\1O/-\0mysql_native_password\0", 90, MSG_DONTWAIT, NULL, NULL) = 86
+08:43:46.775456 sendto(3, "n\0\0\1\215\242\16\0\0\0\0\300!\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0infoscon_wp\0\24\332\226>\335\334\4s\351\374k5Lb\217z\212\331\374S9\0mysql_native_password\0\25\f_client_name\7mysqlnd", 114, MSG_DONTWAIT, NULL, 0) = 114
+08:43:46.775493 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.775548 recvfrom(3, "\7\0\0\2", 4, MSG_DONTWAIT, NULL, NULL) = 4
+08:43:46.775572 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.775596 recvfrom(3, "\0\0\0\2\0\0\0", 90, MSG_DONTWAIT, NULL, NULL) = 7
+08:43:46.775680 sendto(3, "\22\0\0\0\3SET NAMES utf8mb4", 22, MSG_DONTWAIT, NULL, 0) = 22
+08:43:46.775708 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.775741 recvfrom(3, "\7\0\0\1\0\0\0\2\0\0\0", 83, MSG_DONTWAIT, NULL, NULL) = 11
+08:43:46.775775 sendto(3, "\32\0\0\0\3SELECT @@SESSION.sql_mode", 30, MSG_DONTWAIT, NULL, 0) = 30
+08:43:46.775801 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.775839 recvfrom(3, "\1\0\0\1\1(\0\0\2\3def\0\0\0\22@@SESSION.sql_mode\0\f-\0\0\0\0\0\375\0\0\37\0\0\5\0\0\3\376\0\0\2\0\1\0\0\4\0\5\0\0\5\376\0\0\2\0", 72, MSG_DONTWAIT, NULL, NULL) = 72
+08:43:46.775899 sendto(3, "\f\0\0\0\2infoscon_wp", 16, MSG_DONTWAIT, NULL, 0) = 16
+08:43:46.775925 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.775977 recvfrom(3, "\7\0\0\1\0\0\0\2\0\0\0", 90, MSG_DONTWAIT, NULL, NULL) = 11
+08:43:46.776132 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-content/object-cache.php", {st_mode=S_IFREG|0600, st_size=4885, ...}) = 0
+08:43:46.776176 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/object-cache.php", {st_mode=S_IFREG|0600, st_size=4885, ...}) = 0
+08:43:46.776218 open("/home/i/infoscon/infoscon.ru/public_html/wp-content/object-cache.php", O_RDONLY) = 13
+08:43:46.776247 fstat(13, {st_mode=S_IFREG|0600, st_size=4885, ...}) = 0
+08:43:46.776275 mmap(NULL, 4885, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e00d0000
+08:43:46.776303 munmap(0x2ab7e00d0000, 4885) = 0
+08:43:46.776325 close(13)               = 0
+08:43:46.776347 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/object-cache.php", {st_mode=S_IFREG|0600, st_size=4885, ...}) = 0
+08:43:46.776409 stat("/home/i/infoscon/infoscon.ru/public_html/wp-content/plugins/w3-total-cache", 0x7ffe48aa58b0) = -1 ENOENT (No such file or directory)
+08:43:46.776460 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/cache.php", O_RDONLY) = 13
+08:43:46.776488 fstat(13, {st_mode=S_IFREG|0700, st_size=19180, ...}) = 0
+08:43:46.776517 mmap(NULL, 19180, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e00d0000
+08:43:46.776545 munmap(0x2ab7e00d0000, 19180) = 0
+08:43:46.776567 close(13)               = 0
+08:43:46.776588 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/cache.php", {st_mode=S_IFREG|0700, st_size=19180, ...}) = 0
+08:43:46.776695 lstat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-filters.php", {st_mode=S_IFREG|0700, st_size=18777, ...}) = 0
+08:43:46.776736 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-filters.php", O_RDONLY) = 13
+08:43:46.776765 fstat(13, {st_mode=S_IFREG|0700, st_size=18777, ...}) = 0
+08:43:46.776795 fstat(13, {st_mode=S_IFREG|0700, st_size=18777, ...}) = 0
+08:43:46.776823 fstat(13, {st_mode=S_IFREG|0700, st_size=18777, ...}) = 0
+08:43:46.776851 mmap(NULL, 18777, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e00d0000
+08:43:46.776888 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/default-filters.php", {st_mode=S_IFREG|0700, st_size=18777, ...}) = 0
+08:43:46.776923 munmap(0x2ab7e00d0000, 18777) = 0
+08:43:46.776947 close(13)               = 0
+08:43:46.777411 brk(0x55920b7bc000)     = 0x55920b7bc000
+08:43:46.777999 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/l10n.php", O_RDONLY) = 13
+08:43:46.778031 fstat(13, {st_mode=S_IFREG|0744, st_size=31546, ...}) = 0
+08:43:46.778061 mmap(NULL, 31546, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e0243000
+08:43:46.778089 munmap(0x2ab7e0243000, 31546) = 0
+08:43:46.778113 close(13)               = 0
+08:43:46.778135 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/l10n.php", {st_mode=S_IFREG|0744, st_size=31546, ...}) = 0
+08:43:46.778276 sendto(3, "H\0\0\0\3SELECT option_name, option_value FROM wp_options WHERE autoload = 'yes'", 76, MSG_DONTWAIT, NULL, 0) = 76
+08:43:46.778324 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.778454 recvfrom(3, "\1\0\0\1\2K\0\0\2\3def\vinfoscon_wp\nwp_options\nwp_options\voption_name\voption_name\f-\0\0\1\0\0\375", 79, MSG_DONTWAIT, NULL, NULL) = 79
+08:43:46.778488 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.778514 recvfrom(3, "\5@\0\0\0M\0\0\3\3def\vinfoscon_wp\nwp_options\nwp_options\foption_value\foption_value\f-\0\377\377\377\377\374\21\20\0\0\0\5\0\0\4", 90, MSG_DONTWAIT, NULL, NULL) = 90
+08:43:46.778545 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.778570 recvfrom(3, "\376\0\0\"\0\363\1\0\5\4cron\374\353\1a:2:{i:1467782584;a:3:{s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f", 90, MSG_DONTWAIT, NULL, NULL) = 90
+08:43:46.778604 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.778629 recvfrom(3, "18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}s:7:\"version\";i:2;}\5\0\0\6\376\0\0\"\0", 589, MSG_DONTWAIT, NULL, NULL) = 427
+08:43:46.778769 sendto(3, "B\0\0\0\3SELECT option_value FROM wp_options WHERE option_name = 'siteurl'", 70, MSG_DONTWAIT, NULL, 0) = 70
+08:43:46.778802 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.778875 recvfrom(3, "\1\0\0\1\1M\0\0\2\3def\vinfoscon_wp\nwp_options\nwp_options\foption_value\foption_value\f-\0\377\377\377\377\374\21\20\0\0\0\5\0\0\3\376\0\0\2\0\5\0\0\4\376\0\0\2\0", 162, MSG_DONTWAIT, NULL, NULL) = 104
+08:43:46.778981 sendto(3, "\23\0\0\0\3DESCRIBE wp_users;", 23, MSG_DONTWAIT, NULL, 0) = 23
+08:43:46.779010 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.779422 recvfrom(3, "\1\0\0\1\6F\0\0\2\3def\22information_schema\7COLUMNS\7COLUMNS\5Field\vCOL", 58, MSG_DONTWAIT, NULL, NULL) = 58
+08:43:46.779452 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.779476 recvfrom(3, "UMN_NAME\f-\0\0\1\0\0\375\1\0\0\0\0E\0\0\3\3def\22information_schema\7COLUMNS\7COLUMNS\4Type\vCOLUMN_TYPE\f-\0\364\377\v\0\374\21\0\0\0\0E\0\0\4\3def\22information_schema\7COLUMNS\7COLUMNS\4Null\vIS_NULLABLE\f-\0\f\0\0\0\375\1\0\0\0\0C\0\0\5\3def\22information_schema\7COLUMNS\7COLUMNS\3Key\nCOLUMN_KEY\f-\0\f\0\0\0\375\1\0\0\0\0K\0\0\6\3def\22information_schema\7COLUMNS\7COLUMNS\7Default\16COLUMN_DEFAULT\f-\0\364\377\v\0\374\20\0\0\0\0@\0\0\7\3def\22information_schema\7COLUMNS\7COLUMNS\5Extra\5EXTRA\f-\0x\0\0\0\375\1\0\0\0\0\5\0\0\10\376\0\0\"\0.\0\0\t\2ID\23bigint(20) unsigned\2NO\3PRI\373\16auto_increment \0\0\n\nuser_login\vvarchar(60)\2NO\3MUL\0\0\34\0\0\v\tuser_pass\vvarchar(64)\2NO\0\0\0#\0\0\f\ruser_nicename\vvarchar(50)\2NO\3MUL\0\0\36\0\0\r\nuser_email\fvarchar(100)\2NO\0\0\0\34\0\0\16", 589, MSG_DONTWAIT, NULL, NULL) = 589
+08:43:46.779552 poll([{fd=3, events=POLLIN|POLLERR|POLLHUP}], 1, 1471228928) = 1 ([{fd=3, revents=POLLIN}])
+08:43:46.779577 recvfrom(3, "\10user_url\fvarchar(100)\2NO\0\0\0002\0\0\17\17user_registered\10datetime\2NO\0\0230000-00-00 00:00:00\0&\0\0\20\23user_activation_key\vvarchar(60)\2NO\0\0\0\33\0\0\21\vuser_status\7int(11)\2NO\0\0010\0 \0\0\22\fdisplay_name\fvarchar(250)\2NO\0\0\0\5\0\0\23\376\0\0\"\0", 589, MSG_DONTWAIT, NULL, NULL) = 200
+08:43:46.779687 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/version.php", O_RDONLY) = 13
+08:43:46.779720 fstat(13, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:43:46.779750 fstat(13, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:43:46.779778 fstat(13, {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:43:46.779806 mmap(NULL, 619, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e00d0000
+08:43:46.779838 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/version.php", {st_mode=S_IFREG|0744, st_size=619, ...}) = 0
+08:43:46.779873 munmap(0x2ab7e00d0000, 619) = 0
+08:43:46.779897 close(13)               = 0
+08:43:46.779940 open("/home/i/infoscon/infoscon.ru/public_html/wp-includes/locale.php", O_RDONLY) = 13
+08:43:46.779969 fstat(13, {st_mode=S_IFREG|0700, st_size=12544, ...}) = 0
+08:43:46.779997 mmap(NULL, 12544, PROT_READ, MAP_SHARED, 13, 0) = 0x2ab7e00d0000
+08:43:46.780023 munmap(0x2ab7e00d0000, 12544) = 0
+08:43:46.780045 close(13)               = 0
+08:43:46.780066 stat("/home/i/infoscon/infoscon.ru/public_html/wp-includes/locale.php", {st_mode=S_IFREG|0700, st_size=12544, ...}) = 0
+08:43:46.780209 brk(0x55920b806000)     = 0x55920b806000
+08:43:46.780406 access("/home/i/infoscon/infoscon.ru/public_html/wp-content/db-error.php", F_OK) = -1 ENOENT (No such file or directory)
+08:43:46.780510 chdir("/")              = 0
+08:43:46.780784 setitimer(ITIMER_PROF, {it_interval={0, 0}, it_value={0, 0}}, NULL) = 0
+08:43:46.780939 getrusage(RUSAGE_SELF, {ru_utime={0, 9999}, ru_stime={0, 0}, ...}) = 0
+08:43:46.780993 socket(PF_FILE, SOCK_DGRAM|SOCK_CLOEXEC, 0) = 13
+08:43:46.781026 connect(13, {sa_family=AF_FILE, path="/dev/log"}, 110) = 0
+08:43:46.781063 sendto(13, "<8>Jul  6 08:43:46 php: begethook infoscon__infoscon_ru__nd infosvyaz.net [BEGETHOOK_RUSAGE] uri / utime 9999 stime 0 /home/i/infoscon/infoscon.ru/public_html/index.php ++0  ", 174, MSG_NOSIGNAL, NULL, 0) = 174
+08:43:46.781099 close(13)               = 0
+08:43:46.781129 fcntl(9, F_SETLK, {type=F_UNLCK, whence=SEEK_SET, start=0, len=0}) = 0
+08:43:46.781278 sendto(3, "\1\0\0\0\1", 5, MSG_DONTWAIT, NULL, 0) = 5
+08:43:46.781306 close(3)                = 0
+08:43:46.781451 setitimer(ITIMER_PROF, {it_interval={0, 0}, it_value={0, 0}}, NULL) = 0
+08:43:46.781507 writev(12, [{"HTTP/1.1 500 Internal Server Error\r\nDate: Wed, 06 Jul 2016 05:43:45 GMT\r\nServer: Apache/2.4.10 (Unix)\r\nVary: Accept-Encoding,User-Agent\r\nX-Powered-By: PHP/5.5.34\r\nExpires: Wed, 11 Jan 1984 05:00:00 GMT\r\nCache-Control: no-cache, must-revalidate, max-age=0\r\nPragma: no-cache\r\nContent-Length: 251\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\n\r\n", 356}, {"<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n\t<title>Database Error</title>\n\n</head>\n<body>\n\t<h1>Error establishing a database connection</h1>\n</body>\n</html>\n", 251}], 2) = 607
+08:43:46.781623 write(7, "{ \"@timestamp\": \"2016-07-06T08:43:45+0300\", \"@fields\": { \"vhost\": \"infosvyaz.net\", \"ip\": \"5.101.159.150\", \"method\": \"GET\", \"url\": \"/index.php\", \"user\": \"-\", \"status\": \"500\", \"user_agent\": \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0\", \"referer\": \"-\", \"bytes_sent\": \"251\" },  \"@message\": \"infosvyaz.net 5.101.159.150 - - [06/Jul/2016:08:43:45 +0300] \\\"GET / HTTP/1.1\\\" 500 251 \\\"-\\\" \\\"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0\\\"\" }\n", 499) = 499
+08:43:46.781680 write(8, "infosvyaz.net 5.101.159.150 - - [06/Jul/2016:08:43:45 +0300] \"GET / HTTP/1.1\" 500 251 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0\"\n", 169) = 169
+08:43:46.781724 times({tms_utime=0, tms_stime=0, tms_cutime=0, tms_cstime=0}) = 1785756583
+08:43:46.783755 exit_group(0)           = ?

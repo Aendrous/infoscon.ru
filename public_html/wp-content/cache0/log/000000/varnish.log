@@ -1,0 +1,1464 @@
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/] Connecting to  ...
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:05:16 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/] Connecting to  ...
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:27:10 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:29:42 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/] Connecting to  ...
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:51:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/] Connecting to  ...
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Mon, 21 Dec 2015 13:56:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/razresheniya-na-chastoty-dlya-tv-i-rv/] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/razresheniya-na-chastoty-dlya-tv-i-rv/] PURGE /razresheniya-na-chastoty-dlya-tv-i-rv/ HTTP/1.1
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/razresheniya-na-chastoty-dlya-tv-i-rv/] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/razresheniya-na-chastoty-dlya-tv-i-rv/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/registratsiya-i-pereregistratsiya-smi/] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/registratsiya-i-pereregistratsiya-smi/] PURGE /registratsiya-i-pereregistratsiya-smi/ HTTP/1.1
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/registratsiya-i-pereregistratsiya-smi/] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/registratsiya-i-pereregistratsiya-smi/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 13:27:59 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/litsenziya-na-uslugi-mestnoj-telefonnoy-svyazi/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/litsenziya-na-uslugi-mestnoj-telefonnoy-svyazi/] PURGE /litsenziya-na-uslugi-mestnoj-telefonnoy-svyazi/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/litsenziya-na-uslugi-mestnoj-telefonnoy-svyazi/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/litsenziya-na-uslugi-mestnoj-telefonnoy-svyazi/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:00 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/litsenziya-na-uslugi-vnutrizonovoj-telefonii/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/litsenziya-na-uslugi-vnutrizonovoj-telefonii/] PURGE /litsenziya-na-uslugi-vnutrizonovoj-telefonii/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/litsenziya-na-uslugi-vnutrizonovoj-telefonii/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/litsenziya-na-uslugi-vnutrizonovoj-telefonii/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:16 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/litsenziya-na-uslugi-telefonnoj-svyazi-videlenka/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/litsenziya-na-uslugi-telefonnoj-svyazi-videlenka/] PURGE /litsenziya-na-uslugi-telefonnoj-svyazi-videlenka/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/litsenziya-na-uslugi-telefonnoj-svyazi-videlenka/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/litsenziya-na-uslugi-telefonnoj-svyazi-videlenka/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:24 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/litsenziya-na-uslugi-taksofonov/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/litsenziya-na-uslugi-taksofonov/] PURGE /litsenziya-na-uslugi-taksofonov/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/litsenziya-na-uslugi-taksofonov/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/litsenziya-na-uslugi-taksofonov/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:31 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/mestnoj-telefonnoj-svyazi/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/mestnoj-telefonnoj-svyazi/] PURGE /mestnoj-telefonnoj-svyazi/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/mestnoj-telefonnoj-svyazi/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/mestnoj-telefonnoj-svyazi/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:40 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/litsenziya-na-uslugi-telefonnoj-svyazi-videlenka/] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/litsenziya-na-uslugi-telefonnoj-svyazi-videlenka/] PURGE /litsenziya-na-uslugi-telefonnoj-svyazi-videlenka/ HTTP/1.1
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/litsenziya-na-uslugi-telefonnoj-svyazi-videlenka/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/litsenziya-na-uslugi-telefonnoj-svyazi-videlenka/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:02:55 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/registratsiya-i-pereregistratsiya-smi/] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/registratsiya-i-pereregistratsiya-smi/] PURGE /registratsiya-i-pereregistratsiya-smi/ HTTP/1.1
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/registratsiya-i-pereregistratsiya-smi/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/registratsiya-i-pereregistratsiya-smi/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/razresheniya-na-chastoty-dlya-tv-i-rv/] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/razresheniya-na-chastoty-dlya-tv-i-rv/] PURGE /razresheniya-na-chastoty-dlya-tv-i-rv/ HTTP/1.1
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/razresheniya-na-chastoty-dlya-tv-i-rv/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/razresheniya-na-chastoty-dlya-tv-i-rv/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:04:49 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/uslugi/litsenzii-dlya-telefonii/] Connecting to  ...
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/uslugi/litsenzii-dlya-telefonii/] PURGE /uslugi/litsenzii-dlya-telefonii/ HTTP/1.1
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/uslugi/litsenzii-dlya-telefonii/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/uslugi/litsenzii-dlya-telefonii/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:07:31 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/.*] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/.*] PURGE /.* HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/.*] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/359/] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/359/] PURGE /359/ HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/359/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/359/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/370/] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/370/] PURGE /370/ HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/370/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/370/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/372/] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/372/] PURGE /372/ HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/372/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/372/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/371/] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/371/] PURGE /371/ HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/371/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/371/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/415/] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/415/] PURGE /415/ HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/415/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/415/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/363/] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/363/] PURGE /363/ HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/363/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/363/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/.*] Connecting to  ...
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/.*] PURGE /.* HTTP/1.1
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/.*] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:08:30 +0000] [http://infoscon.ru/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/telematika-hosting/] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/telematika-hosting/] PURGE /telematika-hosting/ HTTP/1.1
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/telematika-hosting/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/telematika-hosting/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/litsenziya-na-telematicheskie-uslugi-svyazi/] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/litsenziya-na-telematicheskie-uslugi-svyazi/] PURGE /litsenziya-na-telematicheskie-uslugi-svyazi/ HTTP/1.1
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/litsenziya-na-telematicheskie-uslugi-svyazi/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/litsenziya-na-telematicheskie-uslugi-svyazi/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:16:54 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/litsenziya-na-uslugi-kabelnogo/] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/litsenziya-na-uslugi-kabelnogo/] PURGE /litsenziya-na-uslugi-kabelnogo/ HTTP/1.1
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/litsenziya-na-uslugi-kabelnogo/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/litsenziya-na-uslugi-kabelnogo/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:07 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/litsenziya-efirnogo-veshaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/litsenziya-efirnogo-veshaniya/] PURGE /litsenziya-efirnogo-veshaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/litsenziya-efirnogo-veshaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/litsenziya-efirnogo-veshaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:18:11 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/index/] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/index/] PURGE /index/ HTTP/1.1
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/index/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/index/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:35 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:20:46 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 14:33:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:09 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:00:27 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:06 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:01:51 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:02:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:04 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:03:48 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:05:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:06:29 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/index/] Connecting to  ...
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/index/] PURGE /index/ HTTP/1.1
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/index/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/index/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:08:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/kompaniya/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/kompaniya/] PURGE /kompaniya/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/kompaniya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/kompaniya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:46 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/index/] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/index/] PURGE /index/ HTTP/1.1
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/index/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/index/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:09:49 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/index/] Connecting to  ...
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/index/] PURGE /index/ HTTP/1.1
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/index/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/index/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:10:13 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/index/] Connecting to  ...
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/index/] PURGE /index/ HTTP/1.1
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/index/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/index/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:11:02 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/index/] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/index/] PURGE /index/ HTTP/1.1
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/index/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/index/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:26 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/index/] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/index/] PURGE /index/ HTTP/1.1
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/index/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/index/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:12:51 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/index/] Connecting to  ...
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/index/] PURGE /index/ HTTP/1.1
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/index/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/index/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:13:10 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/.*] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/.*] PURGE /.* HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/.*] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/116/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/116/] PURGE /116/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/116/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/116/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/44/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/44/] PURGE /44/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/44/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/44/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/43/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/43/] PURGE /43/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/43/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/43/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/45/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/45/] PURGE /45/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/45/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/45/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/42/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/42/] PURGE /42/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/42/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/42/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/406/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/406/] PURGE /406/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/406/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/406/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/231/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/231/] PURGE /231/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/231/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/231/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/.*] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/.*] PURGE /.* HTTP/1.1
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/.*] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:08 +0000] [http://infoscon.ru/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/.*] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/.*] PURGE /.* HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/.*] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/44/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/44/] PURGE /44/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/44/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/44/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/43/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/43/] PURGE /43/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/43/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/43/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/45/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/45/] PURGE /45/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/45/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/45/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/42/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/42/] PURGE /42/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/42/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/42/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/406/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/406/] PURGE /406/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/406/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/406/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/116/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/116/] PURGE /116/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/116/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/116/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/.*] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/.*] PURGE /.* HTTP/1.1
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/.*] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:33 +0000] [http://infoscon.ru/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/.*] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/.*] PURGE /.* HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/.*] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/44/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/44/] PURGE /44/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/44/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/44/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/43/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/43/] PURGE /43/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/43/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/43/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/45/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/45/] PURGE /45/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/45/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/45/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/42/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/42/] PURGE /42/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/42/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/42/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/406/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/406/] PURGE /406/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/406/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/406/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/116/] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/116/] PURGE /116/ HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/116/] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/116/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/.*] Connecting to  ...
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/.*] PURGE /.* HTTP/1.1
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/.*] Host: infoscon.ru
+[Wed, 23 Dec 2015 15:25:58 +0000] [http://infoscon.ru/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:10:38 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 16:37:30 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:05:56 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/.*] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/.*] PURGE /.* HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/.*] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/116/] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/116/] PURGE /116/ HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/116/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/116/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/44/] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/44/] PURGE /44/ HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/44/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/44/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/43/] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/43/] PURGE /43/ HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/43/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/43/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/45/] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/45/] PURGE /45/ HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/45/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/45/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/42/] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/42/] PURGE /42/ HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/42/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/42/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/406/] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/406/] PURGE /406/ HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/406/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/406/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/.*] Connecting to  ...
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/.*] PURGE /.* HTTP/1.1
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/.*] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:08:44 +0000] [http://infoscon.ru/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:33:15 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:34:43 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:40:03 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:43:19 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/] Connecting to  ...
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/] PURGE / HTTP/1.1
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/page/2/] Connecting to  ...
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/page/2/] PURGE /page/2/ HTTP/1.1
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/page/2/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/page/2/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/page/3/] Connecting to  ...
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/page/3/] PURGE /page/3/ HTTP/1.1
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/page/3/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/page/3/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/feed/] Connecting to  ...
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/feed/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/usloviya/] Connecting to  ...
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/usloviya/] PURGE /usloviya/ HTTP/1.1
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/usloviya/] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/usloviya/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: infoscon.ru
+[Wed, 23 Dec 2015 18:44:18 +0000] [http://infoscon.ru/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known.

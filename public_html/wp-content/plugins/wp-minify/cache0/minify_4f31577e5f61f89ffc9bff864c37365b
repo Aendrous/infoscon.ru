@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$('.odd-faq-question').click(function(){$(this).next().slideToggle();});$(".odd-faq-answer").hide();});
